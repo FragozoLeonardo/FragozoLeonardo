@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leonardo Quadros Fragozo</h1>
-<h3 align="center">A passionate full stack ruby on rails developer from Brazil</h3>
+<h3 align="center">A passionate full stack Ruby on Rails developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fragozoleonardo&label=Profile%20views&color=0e75b6&style=flat" alt="fragozoleonardo" /> </p>
 
 - 🌱 I’m currently learning **Ruby On Rails Full Stack Developement @The Odin Project**
 
-- 📫 How to reach me **leo.fragozo.dev@gmail.com**
+- 📫 How to reach me **leo.fragozo.dev(at)gmail.com**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/so7a66pg1w](https://flowcv.com/resume/so7a66pg1w)
 
