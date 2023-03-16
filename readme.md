@@ -1,16 +1,19 @@
 <h1 align="center">Hi 👋, I'm Leonardo Quadros Fragozo</h1>
-<h3 align="center">A passionate fullstack developer from Brazil.</h3>
+<h3 align="center">A passionate full stack ruby on rails developer from Brazil</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fragozoleonardo&label=Profile%20views&color=0e75b6&style=flat" alt="fragozoleonardo" /> </p>
 
-- 🌱 I’m currently learning **The Odin Project**
+- 🌱 I’m currently learning **Ruby On Rails Full Stack Developement**
 
 - 📫 How to reach me **leo.fragozo.dev@gmail.com**
 
-- ⚡ Fun fact **I'm also passionate of learning human language, and at the moment I'm learning Japanese.**
+- 📄 Know about my experiences [https://flowcv.com/resume/so7a66pg1w](https://flowcv.com/resume/so7a66pg1w)
+
+- ⚡ Fun fact **I like to learn human languages as well, and I'm currently learning Japanese**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://codepen.io/fragozoleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fragozoleo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/leonardo-fragozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-fragozo" height="30" width="40" /></a>
 </p>
 
