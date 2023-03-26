@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fragozoleonardo&label=Profile%20views&color=0e75b6&style=flat" alt="fragozoleonardo" /> </p>
 
-- 🌱 I'm studying **Ruby On Rails Full Stack Development at The Odin Project** right now.
+- 🌱 I'm studying **Ruby On Rails Full Stack Development at The Odin Project** right now,
 
-- 📫 How to contact me **leo.fragozo.dev(at)gmail.com**.
+- 📫 How to contact me **leo.fragozo.dev(at)gmail.com**,
 
-- 📄 See my resume and my upcoming projects [here](https://flowcv.com/resume/so7a66pg1w).
+- 📄 See my resume and my upcoming projects [here](https://flowcv.com/resume/so7a66pg1w),
 
 - ⚡ Funny fact **I enjoy to learn human languages**,too, and I'm **currently studying Japanese**.
 
