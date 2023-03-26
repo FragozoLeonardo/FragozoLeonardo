@@ -5,7 +5,7 @@
 
 - 🌱 I'm currently studying **Ruby On Rails Full Stack Development at The Odin Project**;
 
-- 📫 How to contact me **leo.fragozo.dev(at)gmail.com**;
+- 📫 How to contact me: **leo.fragozo.dev(at)gmail.com**;
 
 - 📄 See my resume and my upcoming projects **[here](https://flowcv.com/resume/so7a66pg1w);**
 
