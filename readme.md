@@ -9,7 +9,7 @@
 
 - 📄 See my resume and my upcoming projects **[here](https://flowcv.com/resume/so7a66pg1w);**
 
-- ⚡ Funny fact **I enjoy to learn human languages**,too,and I'm currently **studying Japanese**.
+- ⚡ Funny fact: **I enjoy to learn human languages**,too,and I'm currently **studying Japanese**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
