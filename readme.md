@@ -9,7 +9,7 @@
 
 - 📄 See my current resume and my upcoming projects [Portuguese](https://flowcv.com/resume/lgihjnqlig) | [English](https://flowcv.com/resume/so7a66pg1w);
 
-- ⚡ Funny facts about myself: **I enjoy to learn human languages**,too,and I'm currently **studying Japanese** I also enjoy **vintage/classical menswear,decoration,art** and so goes on, ranging from the **17th century to the first half of the 20th century.**
+- ⚡ Funny facts about myself: **I enjoy to learn human languages**,too,and I'm currently **studying Japanese** I also enjoy **vintage/classical menswear, decoration, art** and so goes on, ranging from the **17th century to the first half of the 20th century.**
 
 
 <h3 align="left">Connect with me:</h3>
