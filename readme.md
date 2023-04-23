@@ -24,4 +24,4 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt ="tailwindcss"width="40" height="40"/> </a> 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt ="typescript"width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fragozoleonardo&show_icons=true&locale=en&layout=compact" alt="fragozoleonardo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fragozoleonardo&theme=dark&show_icons=true&locale=en&layout=compact" alt="fragozoleonardo" /></p>
