@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fragozoleonardo&label=Profile%20views&color=0e75b6&style=flat" alt="fragozoleonardo" /> </p>
 
-- 🌱 I'm currently studying **Ruby On Rails Full Stack Development at The Odin Project**;
+- 🌱 I'm currently studying **Full Stack Development at The Odin Project**;
 
 - 📫 How to contact me: **leo.fragozo.dev(at)gmail.com**;
 
