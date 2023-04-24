@@ -32,4 +32,4 @@ src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails
 “In the end we retain from our studies only that which we practically apply.” — *Johann Wolfgang Von Goethe*  
 
 
-"Strive for continuous improvement, instead of perfection." -- "Kim Collins"
+"Strive for continuous improvement, instead of perfection." -- "*Kim Collins*"
