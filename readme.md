@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, My name is Leonardo Quadros Fragozo.</h1>
-<h3 align="center">I'm a passionate full stack Ruby on Rails student and developer from Brazil.</h3>
+<h3 align="center">I'm a passionate developer from Brazil.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=fragozoleonardo&label=Profile%20views&color=0e75b6&style=flat" alt="fragozoleonardo" /> </p>
 
