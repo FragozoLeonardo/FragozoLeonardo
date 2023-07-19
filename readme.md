@@ -7,7 +7,7 @@
 
 📫 How to contact me: **leo.fragozo.dev(at)gmail.com**;
 
-📄 Read my current resume and my upcoming projects [Portuguese](https://flowcv.com/resume/lgihjnqlig) | [English](https://flowcv.com/resume/so7a66pg1w);
+📄 Read my current resume and my upcoming projects [Poetuguês](https://flowcv.com/resume/lgihjnqlig) | English (WIP) | 日本語 (WIP);
 
 ⚡ Funny fact about myself: I'm also currently studying **Japanese.**
 
