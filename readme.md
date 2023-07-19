@@ -9,7 +9,7 @@
 
 📄 Read my current resume and my upcoming projects [Português](https://flowcv.com/resume/lgihjnqlig) | [English](https://flowcv.com/resume/i9see6w58l) | 日本語 (WIP);
 
-⚡ Funny fact about myself: I'm also currently studying **Japanese.**
+⚡ Interesting fact about myself: I'm also currently studying **Japanese.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
