@@ -13,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codepen.io/fragozoleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fragozoleo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/leonardo-fragozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-fragozo" height="30" width="40"/>
-<a href="[https://linkedin.com/in/leonardo-fragozo](https://www.instagram.com/fragozo.leo/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardo-fragozo" height="30" width="40"/></a>
-</p>
+<a href="https://codepen.io/fragozoleo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="fragozoleo" height="40" width="40" /></a>
+<a href="https://replit.com/@FragozoLeonardo" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="@fragozo-leonardo" height="40" width="40"/> </a>
+<a href="https://linkedin.com/in/leonardo-fragozo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonardo-fragozo" height="40" width="40"/>
+<a href="https://www.instagram.com/fragozo.leo/"target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="leonardo-fragozo" height="40" width="40"/></a> </p>
 
 <h3 align="left">Languages and Tools that I'm currently learning at The Odin Project:</h3>
 <p align="left">
