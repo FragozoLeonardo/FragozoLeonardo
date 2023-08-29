@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Leonardo Quadros Fragozo</h1>
 <h3 align="center">A Passionate Full Stack Developer from Brazil</h3>
 
-<p align="center">
+<p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=fragozoleonardo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center">
+<p align="center"> <br>
   🌱 I'm currently studying <strong>Ruby on Rails Full Stack Development at The Odin Project</strong>.
 </p>
 
-<p align="center">
+<p align="center"> <br>
   📫 How to contact me: <strong>leo.fragozo.dev(at)gmail.com</strong>.
 </p>
 
 <p align="center">
-  📄 Read my current resume and upcoming projects in 
+  📄 Read my current resume and upcoming projects in <br>
   <a href="https://flowcv.com/resume/lgihjnqlig">Português</a> |
   <a href="https://flowcv.com/resume/i9see6w58l">English</a> |
   <a href="https://flowcv.com/resume/69h8pu2hpt">日本語</a>.
@@ -29,7 +29,7 @@
   <a href="https://codepen.io/fragozoleo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="40" width="40" /></a>
   <a href="https://replit.com/@FragozoLeonardo" target="_blank"><img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="Replit" height="40" width="40" /></a>
   <a href="https://linkedin.com/in/leonardo-fragozo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/fragozo.leo/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/fragozo.leo/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a> <br>
 </p>
 
 <h3 align="center">Languages and Tools I'm learning at The Odin Project:</h3>
@@ -44,7 +44,7 @@
   <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" /></a>
   <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40" /></a>
   <a href="https://rspec.info/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rspec/rspec-original-wordmark.svg" alt="RSpec" width="40" height="40" /></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a> <br>
 </p>
 
 <h3 align="center">Languages and Tools I Intend to Learn After The Odin Project:</h3>
@@ -62,18 +62,23 @@
 <h3 align="center">Human Languages Skills:</h3>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Portuguese_language" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Portuguese" width="70" height="100"/>
-  </a><br/>Native
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Portuguese" width="70" height="50"/>
+  </a>
+  &nbsp;
+  <a href="https://en.wikipedia.org/wiki/English_language" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English" width="70" height="50"/>
+  </a>
+  &nbsp;
+  <a href="https://en.wikipedia.org/wiki/Japanese_language" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japanese" width="70" height="50">
+  </a>
 </p>
 <p align="center">
-  <a href="https://en.wikipedia.org/wiki/English_language" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English" width="70" height="110"/>
-  </a><br/>Reading: C2 | Listening: C1 | Writing: C1 | Speaking: B2
-</p>
-<p align="center"> <br>
-  <a href="https://en.wikipedia.org/wiki/Japanese_language" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japanese" width="60" height="40">
-  </a><br/><br>JLPT N3
+  Native
+  &nbsp;
+  Overall: C1
+  &nbsp;
+  JLPT N3
 </p>
 
 <h3 align="center">Some Inspirational Quotes:</h3>
