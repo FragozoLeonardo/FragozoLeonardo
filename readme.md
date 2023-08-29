@@ -62,15 +62,15 @@
 <h3 align="center">Human Languages Skills:</h3>
 <p align="center">
   <a href="https://en.wikipedia.org/wiki/Portuguese_language" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Portuguese" width="70" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Portuguese" width="65" height="40"/>
   </a>
   &nbsp;
   <a href="https://en.wikipedia.org/wiki/English_language" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English" width="70" height="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English" width="65" height="40"/>
   </a>
   &nbsp;
   <a href="https://en.wikipedia.org/wiki/Japanese_language" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japanese" width="70" height="50">
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japanese" width="65" height="40">
   </a>
 </p>
 <p align="center">
