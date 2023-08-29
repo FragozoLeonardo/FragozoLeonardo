@@ -1,5 +1,5 @@
 <h1 align="left">Hi there! 👋 I'm Leonardo Quadros Fragozo</h1>
-<h3 align="left">Passionate Full Stack Developer from Brazil &nbsp;<img src="https://komarev.com/ghpvc/?username=fragozoleonardo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></h3>
+<h3 align="left">A Passionate Full Stack Developer from Brazil &nbsp;<img src="https://komarev.com/ghpvc/?username=fragozoleonardo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /></h3>
 
 <p align="left">🌱 Currently diving into <strong>Ruby on Rails Full Stack Development</strong> at <strong>The Odin Project</strong></p>
 
