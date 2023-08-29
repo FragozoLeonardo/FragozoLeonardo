@@ -5,7 +5,7 @@
 
 <p align="left">📄 Read my resume, upcoming projects, and more in <a href="https://flowcv.com/resume/lgihjnqlig">Português</a> | <a href="https://flowcv.com/resume/i9see6w58l">English</a> | <a href="https://flowcv.com/resume/69h8pu2hpt">日本語</a></p>
 
-<p align="left">⚡ Fun fact: I'm also captivated by human languages and am currently learning <strong>Japanese</strong></p>
+<p align="left">⚡ Fun fact: I'm also captivated by human languages and I'm currently learning <strong>Japanese</strong></p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
