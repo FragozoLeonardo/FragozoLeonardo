@@ -3,7 +3,7 @@
 
 <p align="left">🌱 Currently diving into <strong>Ruby on Rails Full Stack Development</strong> at <strong>The Odin Project</strong></p>
 
-<p align="left">📄 Explore my journey, projects, and more in <a href="https://flowcv.com/resume/lgihjnqlig">Português</a> | <a href="https://flowcv.com/resume/i9see6w58l">English</a> | <a href="https://flowcv.com/resume/69h8pu2hpt">日本語</a></p>
+<p align="left">📄 Read my resume, upcoming projects, and more in <a href="https://flowcv.com/resume/lgihjnqlig">Português</a> | <a href="https://flowcv.com/resume/i9see6w58l">English</a> | <a href="https://flowcv.com/resume/69h8pu2hpt">日本語</a></p>
 
 <p align="left">⚡ Fun fact: I'm also captivated by human languages and am currently learning <strong>Japanese</strong></p>
 
@@ -44,9 +44,9 @@
   <!-- ... Add other icons for your future skills here ... -->
 </p>
 
-<h3 align="left">Languages and Cultures:</h3>
+<h3 align="left"> Human Languages:</h3>
 <p align="left">
-  🇧🇷 Portuguese (Native) &nbsp; 🇺🇸 English (Proficient) &nbsp; 🇯🇵 Japanese (Learning)</p>
+  🇧🇷 Portuguese (Native) &nbsp; 🇺🇸 English (Advanced - C1) &nbsp; 🇯🇵 Japanese (JLPT N3)</p>
 
 <h3 align="left">Inspirational Quotes:</h3>
 <p align="left">"In the end, we retain from our studies only that which we practically apply." — <strong>Goethe</strong></p>
