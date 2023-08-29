@@ -59,6 +59,23 @@
   <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" /></a>
 </p>
 
+<h3 align="center">Human Languages Skills:</h3>
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/Portuguese_language" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg" alt="Portuguese" width="70" height="100"/>
+  </a><br/>Native
+</p>
+<p align="center">
+  <a href="https://en.wikipedia.org/wiki/English_language" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="English" width="70" height="110"/>
+  </a><br/>Reading: C2 | Listening: C1 | Writing: C1 | Speaking: B2
+</p>
+<p align="center"> <br>
+  <a href="https://en.wikipedia.org/wiki/Japanese_language" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Japanese" width="60" height="40">
+  </a><br/><br>JLPT N3
+</p>
+
 <h3 align="center">Some Inspirational Quotes:</h3>
 
 <p align="center">"In the end we retain from our studies only that which we practically apply." — <strong>Johann Wolfgang Von Goethe</strong> </p>
