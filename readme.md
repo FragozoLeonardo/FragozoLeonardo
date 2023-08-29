@@ -61,6 +61,6 @@
 
 <h3 align="center">Some Inspirational Quotes:</h3>
 
-<p align="center">"In the end we retain from our studies only that which we practically apply." — **Johann Wolfgang Von Goethe**</p>
+<p align="center">"In the end we retain from our studies only that which we practically apply." — <strong>Johann Wolfgang Von Goethe</strong> </p>
 
-<p align="center"> "Strive for continuous improvement, instead of perfection." — **Kim Collins**</p>
+<p align="center"> "Strive for continuous improvement, instead of perfection." — <strong>Kim Collins</strong> </p>
