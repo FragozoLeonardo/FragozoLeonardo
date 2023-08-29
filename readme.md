@@ -46,7 +46,7 @@
 
 <h3 align="left"> Human Languages:</h3>
 <p align="left">
-  🇧🇷 Portuguese (Native) &nbsp;| 🇺🇸 English (Advanced - C1) &nbsp;| 🇯🇵 Japanese (JLPT N3)</p>
+  🇧🇷 Portuguese (Native) | 🇺🇸 English (Advanced - C1) | 🇯🇵 Japanese (JLPT N3)</p>
 
 <h3 align="left">Inspirational Quotes:</h3>
 <p align="left">"In the end, we retain from our studies only that which we practically apply." — <strong>Goethe</strong></p>
