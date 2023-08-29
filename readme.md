@@ -5,11 +5,11 @@
   <img src="https://komarev.com/ghpvc/?username=fragozoleonardo&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-<p align="center"> <br>
+<p align="center">
   🌱 I'm currently studying <strong>Ruby on Rails Full Stack Development at The Odin Project</strong>.
 </p>
 
-<p align="center"> <br>
+<p align="center">
   📫 How to contact me: <strong>leo.fragozo.dev(at)gmail.com</strong>.
 </p>
 
