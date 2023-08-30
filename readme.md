@@ -1,9 +1,9 @@
 <div align="left">
   <h1>Hello there! 👋 I'm Leonardo Quadros Fragozo</h1>
-  <h3>An Enthusiastic and Determined Full Stack Developer from Brazil</h3>
-  <p>🌱 Currently diving into the world of <strong>Ruby on Rails Full Stack Development</strong> at <strong><a href="https://www.theodinproject.com/">The Odin Project</a></strong>.</p>
-  <p>📄 Explore my resume, upcoming projects, and more in <a href="https://flowcv.com/resume/lgihjnqlig">Português</a> | <a href="https://flowcv.com/resume/i9see6w58l">English</a> | <a href="https://flowcv.com/resume/69h8pu2hpt">日本語</a>.</p>
-  <p>⚡ Fun fact: I also enjoy studying languages, and I'm currently immersed in learning <strong>Japanese</strong>.</p>
+  <h2>An Enthusiastic and Determined Full Stack Developer from Brazil</h2>
+  <p><h3>🌱 Currently diving into the world of <strong>Ruby on Rails Full Stack Development</strong> at <strong><a href="https://www.theodinproject.com/">The Odin Project</a></strong>.</p> </h3>
+  <p><h3>📄</span> Explore my resume, upcoming projects, and more in <a href="https://flowcv.com/resume/lgihjnqlig">Português</a> | <a href="https://flowcv.com/resume/i9see6w58l">English</a> | <a href="https://flowcv.com/resume/69h8pu2hpt">日本語</a>.</p> </h3>
+  <p><h3><span style="font-size: 3em;">⚡</span> Fun fact: I also enjoy studying languages, and I'm currently immersed in learning <strong>Japanese</strong>.</p> </h3>
   
   <h3>Let's Connect!</h3>
   <p>
@@ -38,14 +38,16 @@
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" width="44" height="44" /></a>
   <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" width="44" height="44" /></a>
   
-  <h3>Languages I Speak</h3>
-  <p>
+  <h3>Languages I Speak
+  <p> <br>
     <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/br.svg" alt="Brazil Flag" width="44" height="33" /> Portuguese (Native) &nbsp;&nbsp;
     <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/us.svg" alt="USA Flag" width="44" height="33" /> English (Advanced - C1) &nbsp;&nbsp;
     <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/jp.svg" alt="Japan Flag" width="44" height="33" /> Japanese (JLPT N3)
   </p>
+  </h3>
   
-  <h3>Inspirational Quotes</h3>
-  <p>"In the end, we remember from our studies only that which we practically apply." — <strong>Johann Wolfgang von Goethe</strong></p>
-  <p>"Strive for continuous improvement, instead of perfection." — <strong>Kim Collins</strong></p>
+  <h3>Inspirational Quotes
+  <p>"In the end, we remember from our studies only that which we practically apply." — <strong>Goethe.</strong></p>
+  <p>"Strive for continuous improvement, instead of perfection." — <strong>Kim Collins.</strong></p>
+  </h3>
 </div>
