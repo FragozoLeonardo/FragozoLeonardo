@@ -9,14 +9,18 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/fragozoleo" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" /></a>
-  <a href="https://replit.com/@FragozoLeonardo" target="_blank"><img src="https://skillicons.dev/icons?i=replit" alt="Replit" /></a>
-  <a href="https://linkedin.com/in/leonardo-fragozo" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/fragozo.leo/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
+  <a href="https://codepen.io/fragozoleo" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" width="48" height="48" /></a>
+  <a href="https://replit.com/@FragozoLeonardo" target="_blank"><img src="https://skillicons.dev/icons?i=replit" alt="Replit" width="48" height="48" /></a>
+  <a href="https://linkedin.com/in/leonardo-fragozo" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" width="48" height="48" /></a>
+  <a href="https://www.instagram.com/fragozo.leo/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48" /></a>
 </p>
 
-<h3>Languages and Tools:</h3> 
-<img src="https://skillicons.dev/icons?i=linux,git,html,css,js,react,jest,ruby,rails,postgres" alt="Skills Icons" />
+<h3> Languages and Tools: <h3>
+<div>
+  <img src="https://skillicons.dev/icons?i=linux,git,html,css,js,react,jest,ruby,rails" alt="Skills Icons" />
+  <img src="https://www.svgrepo.com/show/374053/rspec.svg" width="48" height="48" />
+  <img src="https://skillicons.dev/icons?i=postgres" alt="Skills Icons" />
+</div>
 
 <h3> Upcoming Tools and Skills:</h3>
 <img src="https://skillicons.dev/icons?i=docker,postman,bootstrap,tailwind,ts,vue,mongodb,redis" alt="Skills Icons" />
