@@ -1,5 +1,5 @@
 <div align="left">
-  <h1>Hello there! 👋 I'm Leonardo Quadros Fragozo</h1>
+  <h1>Hello there! 👋 I'm Leonardo Quadros Fragozo.</h1>
   <h2>An Enthusiastic and Determined Full Stack Developer from Brazil.</h2>
   <p><h3>🌱 Currently diving into the world of <strong>Ruby on Rails Full Stack Development</strong> at <strong><a href="https://www.theodinproject.com/">The Odin Project</a></strong>.</p> </h3>
   <p><h3>📄</span> Take a look at my resume with upcoming projects, info, and more in <a href="https://flowcv.com/resume/lgihjnqlig">Português</a> | <a href="https://flowcv.com/resume/i9see6w58l">English</a> | <a href="https://flowcv.com/resume/69h8pu2hpt">日本語</a>.</p> </h3>
