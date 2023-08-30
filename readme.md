@@ -19,15 +19,15 @@
       <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48" />
     </a>
   </p>
-  <h3>Languages and Tools:</h3>
+  <h3>Languages and Tools That I'm Learning at The Odin Project.</h3>
   <div>
     <img src="https://skillicons.dev/icons?i=linux,git,html,css,js,react,jest,ruby,rails" alt="Skills Icons" />
     <img src="https://www.svgrepo.com/show/374053/rspec.svg" width="48" height="48" />
     <img src="https://skillicons.dev/icons?i=postgres" alt="Skills Icons" />
   </div>
-  <h3>Upcoming Tools and Skills:</h3>
+  <h3>Languages and Tools That I Also Intend to Learn.</h3>
   <img src="https://skillicons.dev/icons?i=docker,postman,bootstrap,tailwind,ts,vue,mongodb,redis" alt="Skills Icons" />
-  <h3>Human Languages:</h3>
+  <h3>Human Languages That I Understand.</h3>
   <p>
     <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/br.svg" alt="Brazil Flag" width="40" height="30" /> Portuguese (Native) &nbsp;&nbsp;
     <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/us.svg" alt="USA Flag" width="40" height="30" /> English (Advanced - C1) &nbsp;&nbsp;
