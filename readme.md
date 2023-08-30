@@ -46,8 +46,8 @@
   </p>
   </h3>
   
-  <h3>Inspirational Quotes
-  <p>"In the end, we remember from our studies only that which we practically apply." — <strong>Goethe.</strong></p>
+  <h3>Inspirational Quotes  <br>
+  <br> <p>"In the end, we remember from our studies only that which we practically apply." — <strong>Goethe.</strong></p>
   <p>"Strive for continuous improvement, instead of perfection." — <strong>Kim Collins.</strong></p>
   </h3>
 </div>
