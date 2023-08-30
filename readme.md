@@ -4,7 +4,7 @@
   <p>🌱 Currently diving into <strong>Ruby on Rails Full Stack Development</strong> at <strong><a href="https://www.theodinproject.com/">The Odin Project</a></strong> </p> 
   <p>📄 Read my resume, upcoming projects and more in <a href="https://flowcv.com/resume/lgihjnqlig">Português</a> | <a href="https://flowcv.com/resume/i9see6w58l">English</a> | <a href="https://flowcv.com/resume/69h8pu2hpt">日本語</a></p>
   <p>⚡ Fun fact: I'm also enjoy studying languages and I'm currently learning <strong>Japanese</strong></p>
-  <h3>Connect with me:</h3>
+  <h3>Connect with me</h3>
   <p>
     <a href="https://codepen.io/fragozoleo" target="_blank">
       <img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" width="48" height="48" />
@@ -19,21 +19,21 @@
       <img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="48" height="48" />
     </a>
   </p>
-  <h3>Languages and Tools That I'm Learning at The Odin Project.</h3>
+  <h3>Languages and Tools That I'm Learning at The Odin Project</h3>
   <div>
     <img src="https://skillicons.dev/icons?i=linux,git,html,css,js,react,jest,ruby,rails" alt="Skills Icons" />
     <img src="https://www.svgrepo.com/show/374053/rspec.svg" width="48" height="48" />
     <img src="https://skillicons.dev/icons?i=postgres" alt="Skills Icons" />
   </div>
-  <h3>Languages and Tools That I Also Intend to Learn.</h3>
+  <h3>Languages and Tools That I Also Intend to Learn</h3>
   <img src="https://skillicons.dev/icons?i=docker,postman,bootstrap,tailwind,ts,vue,mongodb,redis" alt="Skills Icons" />
-  <h3>Human Languages That I Understand.</h3>
+  <h3>Human Languages That I Understand</h3>
   <p>
     <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/br.svg" alt="Brazil Flag" width="40" height="30" /> Portuguese (Native) &nbsp;&nbsp;
     <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/us.svg" alt="USA Flag" width="40" height="30" /> English (Advanced - C1) &nbsp;&nbsp;
     <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/jp.svg" alt="Japan Flag" width="40" height="30" /> Japanese (JLPT N3)
   </p>
-  <h3>Inspirational Quotes:</h3>
+  <h3>Inspirational Quotes</h3>
   <p>"In the end, we retain from our studies only that which we practically apply." — <strong>Goethe</strong></p>
   <p>"Strive for continuous improvement, instead of perfection." — <strong>Kim Collins</strong></p>
 </div>
