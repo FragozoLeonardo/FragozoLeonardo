@@ -9,44 +9,24 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/fragozoleo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="CodePen" height="40" width="40" /></a>
-  <a href="https://replit.com/@FragozoLeonardo" target="_blank"><img src="https://www.vectorlogo.zone/logos/replit/replit-icon.svg" alt="Replit" height="40" width="40" /></a>
-  <a href="https://linkedin.com/in/leonardo-fragozo" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/fragozo.leo/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40" width="40" /></a>
+  <a href="https://codepen.io/fragozoleo" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="40" width="40" /></a>
+  <a href="https://replit.com/@FragozoLeonardo" target="_blank"><img src="https://skillicons.dev/icons?i=replit" alt="Replit" height="40" width="40" /></a>
+  <a href="https://linkedin.com/in/leonardo-fragozo" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
+  <a href="https://www.instagram.com/fragozo.leo/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" /></a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" /></a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /></a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" /></a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" /></a>
-  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40" /></a>
-  <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="Ruby" width="40" height="40" /></a>
-  <a href="https://rubyonrails.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="Rails" width="40" height="40" /></a>
-  <a href="https://rspec.info/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rspec/rspec-original-wordmark.svg" alt="RSpec" width="40" height="40" /></a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" /></a>
-  <!-- ... Add other icons for your skills here ... -->
-</p>
+<h3>Languages and Tools:</h3> 
+<img src="https://skillicons.dev/icons?i=linux,git,html,css,js,react,jest,ruby,rails,postgres" alt="Skills Icons" />
 
-<h3 align="left">Upcoming Tools and Skills:</h3>
-<p align="left">
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" /></a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" /></a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40" /></a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40" /></a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" /></a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40" /></a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" /></a>
-  <a href="https://redis.io" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" /></a>
-  <!-- ... Add other icons for your future skills here ... -->
-</p>
+<h3> Upcoming Tools and Skills:</h3>
+<img src="https://skillicons.dev/icons?i=docker,postman,bootstrap,tailwind,ts,vue,mongodb,redis" alt="Skills Icons" />
 
 <h3 align="left"> Human Languages:</h3>
 <p align="left">
-  🇧🇷 Portuguese (Native) | 🇺🇸 English (Advanced - C1) | 🇯🇵 Japanese (JLPT N3)</p>
+  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/br.svg" alt="Brazil Flag" width="40" height="30" /> Portuguese (Native) &nbsp;&nbsp;
+  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/us.svg" alt="USA Flag" width="40" height="30" /> English (Advanced - C1) &nbsp;&nbsp;
+  <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/jp.svg" alt="Japan Flag" width="40" height="30" /> Japanese (JLPT N3)
+</p>
 
 <h3 align="left">Inspirational Quotes:</h3>
 <p align="left">"In the end, we retain from our studies only that which we practically apply." — <strong>Goethe</strong></p>
