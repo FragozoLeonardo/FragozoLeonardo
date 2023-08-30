@@ -9,10 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://codepen.io/fragozoleo" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" height="40" width="40" /></a>
-  <a href="https://replit.com/@FragozoLeonardo" target="_blank"><img src="https://skillicons.dev/icons?i=replit" alt="Replit" height="40" width="40" /></a>
-  <a href="https://linkedin.com/in/leonardo-fragozo" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="40" width="40" /></a>
-  <a href="https://www.instagram.com/fragozo.leo/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" height="40" width="40" /></a>
+  <a href="https://codepen.io/fragozoleo" target="_blank"><img src="https://skillicons.dev/icons?i=codepen" alt="CodePen" /></a>
+  <a href="https://replit.com/@FragozoLeonardo" target="_blank"><img src="https://skillicons.dev/icons?i=replit" alt="Replit" /></a>
+  <a href="https://linkedin.com/in/leonardo-fragozo" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/fragozo.leo/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" /></a>
 </p>
 
 <h3>Languages and Tools:</h3> 
