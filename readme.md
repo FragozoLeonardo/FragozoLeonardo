@@ -51,5 +51,5 @@
   <p>"Strive for continuous improvement, instead of perfection." — <strong>Kim Collins.</strong></p>
   </h3>
 </div>
-<h3>Help Me to Improve! I Will Help You!
+<h3>Let's improve together!
 <br> <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=FragozoLeonardo&theme=transparent" alt="Anurag's GitHub stats"> </a>
