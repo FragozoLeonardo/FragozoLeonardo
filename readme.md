@@ -1,9 +1,9 @@
 <div align="left">
   <h1>Hello there! 👋 I'm Leonardo Quadros Fragozo. &nbsp;<img src="https://komarev.com/ghpvc/?username=FragozoLeonardo&color=blue&style=plastic" alt="Profile Views" /></h1>
   <h2>An Enthusiastic and Determined Full Stack Ruby On Rails Developer from Brazil.</h2>
-  <p><strong>🌱 Currently diving into the world of Ruby on Rails Full Stack Development at <a href="https://www.theodinproject.com/">The Odin Project</a>.</strong></p>
-  <p><strong>📄 Take a look at my resume with info, upcoming projects and more in <a href="https://flowcv.com/resume/lgihjnqlig">Português</a> | <a href="https://flowcv.com/resume/i9see6w58l">English</a> | <a href="https://flowcv.com/resume/69h8pu2hpt">日本語</a>.</strong></p>
-  <p><strong>⚡ Fun fact: I also enjoy studying languages, and I'm currently immersed in learning <span style="font-weight: bold;">Japanese</span>.</strong></p>
+  <h3> <strong>🌱 Currently diving into the world of Ruby on Rails Full Stack Development at <a href="https://www.theodinproject.com/">The Odin Project</a>.</strong> </h3>
+  <h3> <strong>📄 Take a look at my resume with info, upcoming projects and more in <a href="https://flowcv.com/resume/lgihjnqlig">Português</a> | <a href="https://flowcv.com/resume/i9see6w58l">English</a> | <a href="https://flowcv.com/resume/69h8pu2hpt">日本語</a>.</strong></h3>
+  <h3> <strong>⚡ Fun fact: I also enjoy studying languages, and I'm currently immersed in learning <span style="font-weight: bold;">Japanese</span>.</strong></h3>
 
   <h3>Let's Connect!</h3>
   <p>
