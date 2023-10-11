@@ -44,6 +44,7 @@
 
 ## Inspirational Quotes
 "In the end, we remember from our studies only that which we practically apply." — **Goethe.**
+
 "Strive for continuous improvement, instead of perfection." — **Kim Collins.**
 
 ## Let's improve together!
