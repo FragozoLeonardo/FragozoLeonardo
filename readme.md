@@ -6,7 +6,9 @@
 
 ### 📄 Take a look at my resume with info, upcoming projects and more in [Português](https://flowcv.com/resume/lgihjnqlig) | [English](https://flowcv.com/resume/i9see6w58l) | [日本語](https://flowcv.com/resume/69h8pu2hpt).
 
-### ⚡ Fun fact: I also enjoy studying languages, and I'm currently immersed in learning **Japanese**.
+### ⚡ Fun fact # 1: I also enjoy studying languages, and I'm currently immersed in learning **Japanese**.
+
+### ⚡ Fun fact # 2: I also enjoy historical clothing, and I'm currently using in my profile my favorite time periods/cultures.
 
 ## Let's Connect!
 [![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/fragozoleo)
