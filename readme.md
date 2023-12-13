@@ -4,7 +4,7 @@
 
 ### 🌱 Currently diving into the world of Ruby on Rails Full Stack Development at [The Odin Project](https://www.theodinproject.com/).
 
-### 📄 Take a look at my resume with info, upcoming projects and more in [Português](https://flowcv.com/resume/lgihjnqlig) | [English](https://flowcv.com/resume/i9see6w58l) | [日本語](https://flowcv.com/resume/69h8pu2hpt).
+### 📄 Take a look at my resume with info, upcoming projects and more in [Português](wip) | [English](https://flowcv.com/resume/i9see6w58l) | [日本語](https://flowcv.com/resume/69h8pu2hpt).
 
 ### ⚡ Fun fact: I also enjoy studying languages, and I'm currently immersed in learning **Japanese**.
 
