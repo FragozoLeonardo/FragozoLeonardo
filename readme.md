@@ -4,7 +4,7 @@
 
 ### 🌱 Currently diving into the world of Ruby on Rails Full Stack Development at [The Odin Project](https://www.theodinproject.com/).
 
-### 📄 Take a look at my website with info, upcoming projects and more in [Here](https://fragozoleonardo.github.io/).
+### 📄 Take a look at my website with personal info, ramblings, upcoming projects and more in [Here](https://fragozoleonardo.github.io/).
 
 ### ⚡ Fun fact: I also enjoy studying languages, and I'm currently immersed in learning **Japanese**.
 
