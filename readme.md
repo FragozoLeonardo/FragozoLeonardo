@@ -39,8 +39,8 @@
 
 ## Languages I Speak
 <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/br.svg" alt="Brazil Flag" width="48" height="36" /> Brazilian Portuguese (Native) 
-<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/us.svg" alt="USA Flag" width="48" height="36" /> English (Advanced - C1) 
-<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/jp.svg" alt="Japan Flag" width="48" height="36" /> Japanese (JLPT N3)
+<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/us.svg" alt="USA Flag" width="48" height="36" /> English (Advanced) 
+<img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/jp.svg" alt="Japan Flag" width="48" height="36" /> Japanese (Intermediate)
 
 ## Inspirational Quotes
 "In the end, we remember from our studies only that which we practically apply." — **Goethe.**
