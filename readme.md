@@ -26,6 +26,8 @@
 [![Rails](https://skillicons.dev/icons?i=rails)](https://rubyonrails.org/)
 <a href="https://rspec.info/" target="_blank"><img src="https://www.svgrepo.com/show/374053/rspec.svg" alt="RSpec" width="48" height="48" /></a>
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
+<a href="https://vitest.dev/" target="_blank"><img src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png" alt="Vitest" width="48" height="48" /></a>
+
 
 ## Languages and Tools on My Learning Horizon
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
