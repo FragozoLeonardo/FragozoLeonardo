@@ -1,12 +1,14 @@
-# Hello there! 👋 I'm Leonardo Quadros Fragozo. ![Profile Views](https://komarev.com/ghpvc/?username=FragozoLeonardo&color=blue&style=plastic)
+# Hello there! 👋🏼 I'm Leonardo Quadros Fragozo. ![Profile Views](https://komarev.com/ghpvc/?username=FragozoLeonardo&color=blue&style=plastic)
 
 ## An Enthusiastic and Determined Full Stack Ruby On Rails Developer from Brazil.
 
-### 🌱 Currently diving into the world of Ruby on Rails Full Stack Development at [The Odin Project](https://www.theodinproject.com/).
+### 🌱 Currently improving my Ruby on Rails Full Stack Development Knowledge at [Go Rails](https://gorails.com/).
 
 ### 🌐 Take a look at my website with personal info, ramblings, upcoming projects and more [Here](https://fragozoleonardo.github.io/).
 
 ### ⚡ Fun fact: I also enjoy studying languages, and I'm currently immersed in learning **Japanese**.
+
+### ⭐ Finished The Odin Project Ruby On Rails Track (Where I Have The Projects in My Repos) - Please Take a Look!
 
 ## Let's Connect!
 [![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/fragozoleo)
