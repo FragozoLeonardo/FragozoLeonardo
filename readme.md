@@ -16,7 +16,7 @@
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/leonardo-fragozo)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/fragozo.leo/)
 
-## Languages and Tools I'm Mastering at The Odin Project
+## Languages and Tools I studied at The Odin Project
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
 [![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
 [![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
