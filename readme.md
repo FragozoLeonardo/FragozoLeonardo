@@ -2,13 +2,13 @@
 
 ## An Enthusiastic and Determined Full Stack Ruby On Rails Developer from Brazil.
 
-### ⭐ Currently improving my Ruby on Rails Full Stack Development Knowledge at [Go Rails](https://gorails.com/).
+### ⭐ Currently improving my Ruby on Rails full stack development knowledge at [Go Rails](https://gorails.com/).
 
-### 🌐 Take a look at my website with personal info, ramblings, upcoming projects and more [Here](https://fragozoleonardo.github.io/).
+### 🌐 Take a look at my website with personal info, ramblings, upcoming projects, and more [here](https://fragozoleonardo.github.io/).
 
 ### ⚡ Fun fact: I also enjoy studying languages, and I'm currently immersed in learning **Japanese**.
 
-### 🌱 Finished The Odin Project Ruby On Rails Track (The Projects Are In My Repos) - Please Take a Look!
+### 🌱 Finished The Odin Project Ruby on Rails track (the projects are in my repos) - please take a look!
 
 ## Let's Connect!
 [![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/fragozoleo)
@@ -30,7 +30,6 @@
 [![PostgreSQL](https://skillicons.dev/icons?i=postgres)](https://www.postgresql.org/)
 <a href="https://vitest.dev/" target="_blank"><img src="https://seeklogo.com/images/V/vitest-logo-9ADDA575A5-seeklogo.com.png" alt="Vitest" width="48" height="48" /></a>
 
-
 ## Languages and Tools on My Learning Horizon
 [![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
 [![Postman](https://skillicons.dev/icons?i=postman)](https://www.postman.com/)
@@ -47,9 +46,9 @@
 <img src="https://github.com/lipis/flag-icons/blob/main/flags/4x3/jp.svg" alt="Japan Flag" width="48" height="36" /> Japanese (Intermediate)
 
 ## Inspirational Quotes
-"In the end, we remember from our studies only that which we practically apply." — **Goethe.**
+"In the end, we remember from our studies only that which we practically apply." — **Goethe**
 
-"Strive for continuous improvement, instead of perfection." — **Kim Collins.**
+"Strive for continuous improvement, instead of perfection." — **Kim Collins**
 
 ## Let's improve together!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FragozoLeonardo&theme=transparent)
