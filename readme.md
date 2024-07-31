@@ -8,7 +8,7 @@
 
 ### 🌐 Take a look at my website with personal info, ramblings, upcoming projects, and more [here](https://fragozoleonardo.github.io/).
 
-### ⚡ Fun fact: I also enjoy studying languages, and I'm currently immersed in learning **Japanese**.
+### ⚡ Fun fact: I also enjoy studying languages, and I'm also currently immersed in learning **Japanese**.
 
 ## Let's Connect!
 [![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/fragozoleo)
