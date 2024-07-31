@@ -4,11 +4,11 @@
 
 ### ⭐ Currently improving my Ruby on Rails full stack development knowledge at [Go Rails](https://gorails.com/).
 
+### ✅ Finished The Odin Project Ruby on Rails track (the projects are in my repos) - please take a look!
+
 ### 🌐 Take a look at my website with personal info, ramblings, upcoming projects, and more [here](https://fragozoleonardo.github.io/).
 
 ### ⚡ Fun fact: I also enjoy studying languages, and I'm currently immersed in learning **Japanese**.
-
-### 🌱 Finished The Odin Project Ruby on Rails track (the projects are in my repos) - please take a look!
 
 ## Let's Connect!
 [![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/fragozoleo)
