@@ -8,7 +8,7 @@
 
 ### ⚡ Fun fact: I also enjoy studying languages, and I'm currently immersed in learning **Japanese**.
 
-### 🌱 Finished The Odin Project Ruby On Rails Track (Most of the Projects are My Repos) - Please Take a Look!
+### 🌱 Finished The Odin Project Ruby On Rails Track (The Projects Are In My Repos) - Please Take a Look!
 
 ## Let's Connect!
 [![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/fragozoleo)
