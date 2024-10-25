@@ -14,7 +14,7 @@
 [![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/fragozoleo)
 [![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/@FragozoLeonardo)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/leonardo-fragozo)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/fragozo.leo/)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/silk andsyntax/)
 
 ## Languages and Tools I studied at The Odin Project
 [![Linux](https://skillicons.dev/icons?i=linux)](https://www.linux.org/)
