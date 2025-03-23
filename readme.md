@@ -27,7 +27,7 @@ I'm passionate about technology, language learning (currently focused on **Japan
 ![CSS](https://skillicons.dev/icons?i=css)
 ![Jest](https://skillicons.dev/icons?i=jest)
 
-**Learning :**  
+**Planning to learn:**  
 ![AWS](https://skillicons.dev/icons?i=aws)
 ![Docker](https://skillicons.dev/icons?i=docker)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
