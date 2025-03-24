@@ -41,7 +41,7 @@ I'm passionate about technology, language learning (currently focused on **Japan
 ## 🌎 Languages
 
 🇧🇷 Brazilian Portuguese (Native)  
-🇺🇸 English (Advanced)  
+🇬🇧 English (Advanced)  
 🇯🇵 Japanese (Intermediate)
 
 ---
