@@ -1,6 +1,6 @@
 # Leonardo Quadros Fragozo 👋🏼
 
-<img src="https://i.postimg.cc/0281rP81/Gent-Ghibli-Wall.jpg" alt="Gent-Ghibli-Wall" width="65%">
+<img src="https://i.postimg.cc/0281rP81/Gent-Ghibli-Wall.jpg" alt="Gent-Ghibli-Wall" width="80%">
 
 **Full Stack Ruby on Rails Developer | Lifelong Learner | Vintage Gentleman**
 
