@@ -1,6 +1,6 @@
 # Leonardo Quadros Fragozo 👋🏼
 
-**Full Stack Ruby on Rails Developer | Lifelong Learner**
+**Full Stack Ruby on Rails Developer | Lifelong Learner | Vintage Gentleman**
 
 Currently enhancing my skills through [Go Rails](https://gorails.com/) and pursuing an MBA specialized in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/). Previously completed The Odin Project's Ruby on Rails track ([projects here](https://github.com/FragozoLeonardo?tab=repositories)).
 
