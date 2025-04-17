@@ -5,7 +5,7 @@
 Atualmente aprimorando minhas habilidades com o [Go Rails](https://gorails.com/) e cursando um MBA especializado em Ruby on Rails pelo [MBA on Rails](https://mbaonrails.com.br/).  
 Concluí o curso de Ruby on Rails pelo The Odin Project ([projetos aqui](https://github.com/FragozoLeonardo?tab=repositories)).
 
-Tenho como foco atualvo **desenvolvimento web com Ruby on Rails** e o **estudo da língua japonesa**.
+Tenho como foco atual o **desenvolvimento web com Ruby on Rails** e o **estudo da língua japonesa**.
 
 🔗 **[Site Pessoal](https://fragozoleonardo.github.io/)**
 
