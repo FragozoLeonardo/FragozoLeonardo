@@ -135,7 +135,6 @@ My current focus is on **web development with Ruby on Rails** and **learning the
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/leonardo-fragozo)
 [![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/fragozoleo)
 [![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/@FragozoLeonardo)
-[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/silkandsyntax/)
 
 ---
 
