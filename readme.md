@@ -1,6 +1,6 @@
 # 🇧🇷 Leonardo Quadros Fragozo 👋🏼
 
-**Desenvolvedor Full Stack Ruby on Rails | Aprendiz Contínuo | Cavalheiro Vintage**
+**Desenvolvedor Full Stack Ruby on Rails | Aprendiz Contínuo**
 
 Atualmente aprimorando minhas habilidades com o [Go Rails](https://gorails.com/) e cursando um MBA especializado em Ruby on Rails pelo [MBA on Rails](https://mbaonrails.com.br/).  
 Concluí o curso de Ruby on Rails pelo The Odin Project ([projetos aqui](https://github.com/FragozoLeonardo?tab=repositories)).
@@ -42,10 +42,10 @@ Tenho como foco atual o **desenvolvimento web com Ruby on Rails** e o **estudo d
 
 ## 🇺🇸 Leonardo Quadros Fragozo 👋🏼
 
-**Full Stack Ruby on Rails Developer | Lifelong Learner | Vintage Gentleman**
+**Full Stack Ruby on Rails Developer | Lifelong Learner**
 
 Currently enhancing my skills through [Go Rails](https://gorails.com/) and pursuing an MBA specialized in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/).  
-Previously completed The Odin Project's Ruby on Rails track ([projects here](https://github.com/FragozoLeonardo?tab=repositories)).
+Completed the Ruby on Rails track at The Odin Project ([projects here](https://github.com/FragozoLeonardo?tab=repositories)).
 
 My current focus is on **web development with Ruby on Rails** and **learning the Japanese language**.
 
@@ -84,9 +84,9 @@ My current focus is on **web development with Ruby on Rails** and **learning the
 
 ## 🇯🇵 レオナルド・フラゴーゾ 👋🏼
 
-**フルスタックRuby on Rails開発者｜生涯学習者｜ヴィンテージ・ジェントルマン**
+**フルスタックRuby on Rails開発者｜生涯学習者**
 
-現在、[Go Rails](https://gorails.com/)を通じてスキルを強化し、[MBA on Rails](https://mbaonrails.com.br/)でRuby on Railsに特化したMBAを取得中です。  
+現在、[Go Rails](https://gorails.com/)を通じてスキルを強化し、[MBA on Rails](https://mbaonrails.com.br/)でRuby on Railsに特化したMBAを履修中です。  
 以前はThe Odin ProjectのRailsトラックを修了しました（[プロジェクト一覧](https://github.com/FragozoLeonardo?tab=repositories)）。
 
 私の現在の関心は、**Ruby on RailsによるWeb開発**と**日本語の学習**です。
@@ -126,7 +126,7 @@ My current focus is on **web development with Ruby on Rails** and **learning the
 
 ## 🌎 Languages
 
-🇧🇷 Português (Nativo) | 🇬🇧 English (Advanced) | 🇯🇵 日本語（中級）
+🇧🇷 Português (Nativo) | 🇬🇧 English (Advanced) | 🇯🇵 日本語（日本語能力試験N3に向けて勉強中です。将来的にはN2やN1の取得も目指しています。）
 
 ---
 
