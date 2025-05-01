@@ -7,6 +7,12 @@ Concluí o curso de Ruby on Rails pelo The Odin Project ([projetos aqui](https:/
 
 Tenho como foco atual o **desenvolvimento web com Ruby on Rails** e o **estudo da língua japonesa**.
 
+**Projetos em Destaque**
+
+**🏥 [ClinicSync](https://github.com/FragozoLeonardo/Clinic-Sync)**
+
+Sistema de gestão para clínicas médicas, com funcionalidades como autenticação, agendamento de consultas, relatórios e interface moderna. Desenvolvido com Ruby on Rails, Hotwire e Tailwind CSS.
+
 🔗 **[Site Pessoal](https://fragozoleonardo.github.io/)**
 
 ---
@@ -40,7 +46,7 @@ Tenho como foco atual o **desenvolvimento web com Ruby on Rails** e o **estudo d
 
 ---
 
-## 🇺🇸 Leonardo Quadros Fragozo 👋🏼
+## 🇬🇧 Leonardo Quadros Fragozo 👋🏼
 
 **Full Stack Ruby on Rails Developer | Lifelong Learner**
 
@@ -48,6 +54,12 @@ Currently enhancing my skills through [Go Rails](https://gorails.com/) and pursu
 Completed the Ruby on Rails track at The Odin Project ([projects here](https://github.com/FragozoLeonardo?tab=repositories)).
 
 My current focus is on **web development with Ruby on Rails** and **learning the Japanese language**.
+
+**Featured Projects**
+
+🏥 [ClinicSync](https://github.com/FragozoLeonardo/Clinic-Sync)
+
+Medical clinic management system with features like authentication, appointment scheduling, reports, and a modern interface. Built using Ruby on Rails, Hotwire, and Tailwind CSS.
 
 🔗 **[Personal Website](https://fragozoleonardo.github.io/)**
 
@@ -91,6 +103,14 @@ My current focus is on **web development with Ruby on Rails** and **learning the
 
 私の現在の関心は、**Ruby on RailsによるWeb開発**と**日本語の学習**です。
 
+現在、日本語能力試験N3に向けて勉強中です。将来的にはN2、そしてN1の取得も目指しています。
+
+**注目プロジェクト**
+
+**🏥 [ClinicSync](https://github.com/FragozoLeonardo/Clinic-Sync)**
+
+認証機能、予約管理、レポート作成、モダンなUIを備えたクリニック向けの管理システムです。Ruby on Rails、Hotwire、Tailwind CSSを使用して開発しました。
+
 🔗 **[個人サイト](https://fragozoleonardo.github.io/)**
 
 ---
@@ -126,7 +146,7 @@ My current focus is on **web development with Ruby on Rails** and **learning the
 
 ## 🌎 Languages
 
-🇧🇷 Português (Nativo) | 🇬🇧 English (Advanced) | 🇯🇵 日本語（日本語能力試験N3に向けて勉強中です。将来的にはN2やN1の取得も目指しています。）
+🇧🇷 Português (Nativo) | 🇬🇧 English (Advanced) | 🇯🇵 日本語（中級）
 
 ---
 
