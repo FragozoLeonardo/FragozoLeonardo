@@ -2,8 +2,7 @@
 
 **Desenvolvedor Full Stack Ruby on Rails | Aprendiz Contínuo**
 
-Atualmente aprimorando minhas habilidades com o [Go Rails](https://gorails.com/) e cursando um MBA especializado em Ruby on Rails pelo [MBA on Rails](https://mbaonrails.com.br/).  
-Concluí o curso de Ruby on Rails pelo The Odin Project ([projetos aqui](https://github.com/FragozoLeonardo?tab=repositories)).
+Cursando um MBA especializado em Ruby on Rails pelo [MBA on Rails](https://mbaonrails.com.br/).  
 
 Tenho como foco atual o **desenvolvimento web com Ruby on Rails** e o **estudo da língua japonesa**.
 
@@ -50,8 +49,7 @@ Sistema de gestão para clínicas médicas, com funcionalidades como autenticaç
 
 **Full Stack Ruby on Rails Developer | Lifelong Learner**
 
-Currently enhancing my skills through [Go Rails](https://gorails.com/) and pursuing an MBA specialized in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/).  
-Completed the Ruby on Rails track at The Odin Project ([projects here](https://github.com/FragozoLeonardo?tab=repositories)).
+Currently pursuing an MBA specialized in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/).  
 
 My current focus is on **web development with Ruby on Rails** and **learning the Japanese language**.
 
@@ -98,12 +96,11 @@ Medical clinic management system with features like authentication, appointment 
 
 **フルスタックRuby on Rails開発者｜生涯学習者**
 
-現在、[Go Rails](https://gorails.com/)を通じてスキルを強化し、[MBA on Rails](https://mbaonrails.com.br/)でRuby on Railsに特化したMBAを履修中です。  
-以前はThe Odin ProjectのRailsトラックを修了しました（[プロジェクト一覧](https://github.com/FragozoLeonardo?tab=repositories)）。
+現在、[MBA on Rails](https://mbaonrails.com.br/)でRuby on Railsに特化したMBAを履修中です。  
 
 私の現在の関心は、**Ruby on RailsによるWeb開発**と**日本語の学習**です。
 
-現在、日本語能力試験N3に向けて勉強中です。将来的にはN2、そしてN1の取得も目指しています。
+現在、日本語能力試験N2に向けて勉強中です。将来的にはN1の取得も目指しています。
 
 **注目プロジェクト**
 
