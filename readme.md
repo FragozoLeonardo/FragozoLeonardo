@@ -8,11 +8,7 @@ Tenho como foco atual o **desenvolvimento web com Ruby on Rails** e o **estudo d
 
 **Projetos em Destaque**
 
-**🏥 [ClinicSync](https://github.com/FragozoLeonardo/Clinic-Sync)**
-
-Sistema de gestão para clínicas médicas, com funcionalidades como autenticação, agendamento de consultas, relatórios e interface moderna. Desenvolvido com Ruby on Rails, Hotwire e Tailwind CSS.
-
-🔗 **[Site Pessoal](https://fragozoleonardo.github.io/)**
+WIP
 
 ---
 
@@ -55,11 +51,7 @@ My current focus is on **web development with Ruby on Rails** and **learning the
 
 **Featured Projects**
 
-🏥 [ClinicSync](https://github.com/FragozoLeonardo/Clinic-Sync)
-
-Medical clinic management system with features like authentication, appointment scheduling, reports, and a modern interface. Built using Ruby on Rails, Hotwire, and Tailwind CSS.
-
-🔗 **[Personal Website](https://fragozoleonardo.github.io/)**
+WIP
 
 ---
 
@@ -104,11 +96,7 @@ Medical clinic management system with features like authentication, appointment 
 
 **注目プロジェクト**
 
-**🏥 [ClinicSync](https://github.com/FragozoLeonardo/Clinic-Sync)**
-
-認証機能、予約管理、レポート作成、モダンなUIを備えたクリニック向けの管理システムです。Ruby on Rails、Hotwire、Tailwind CSSを使用して開発しました。
-
-🔗 **[個人サイト](https://fragozoleonardo.github.io/)**
+WIP
 
 ---
 
