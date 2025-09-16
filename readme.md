@@ -1,14 +1,10 @@
 # 🇧🇷 Leonardo Fragozo 🙋‍♂️
 
-**Desenvolvedor Full Stack Ruby on Rails | Aprendiz Contínuo**
+**Desenvolvedor Full Stack Ruby on Rails | Aprendiz Contínuo**  
 
 Cursando um MBA especializado em Ruby on Rails pelo [MBA on Rails](https://mbaonrails.com.br/).  
 
 Tenho como foco atual o **desenvolvimento web com Ruby on Rails** e o **estudo da língua japonesa**.
-
-**Projetos em Destaque**
-
-WIP
 
 ---
 
@@ -41,17 +37,47 @@ WIP
 
 ---
 
+## 💼 Projetos em Destaque
+
+### [Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
+CLI para gerar **formulários Genkoyoshi** de prática de escrita de kanji.  
+
+### [KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU)
+CLI para **conjugação de verbos, adjetivos e substantivos** em japonês.  
+
+---
+
+## 🌎 Idiomas
+
+🇧🇷 Português (Nativo) | 🇬🇧 English (Advanced) | 🇯🇵 日本語（中級）
+
+---
+
+## 📫 Conecte-se comigo
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/leonardo-fragozo)
+[![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/fragozoleo)
+[![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/@FragozoLeonardo)
+
+---
+
+## 🚀 Frase Inspiradora
+
+> “Strive for continuous improvement, instead of perfection.” — **Kim Collins**
+
+---
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FragozoLeonardo&show_icons=true&theme=transparent)
+
+---
+
 # 🇬🇧 Leonardo Fragozo 🙋‍♂️
 
-**Full Stack Ruby on Rails Developer | Lifelong Learner**
+**Full Stack Ruby on Rails Developer | Lifelong Learner**  
 
 Currently pursuing an MBA specialized in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/).  
 
-My current focus is on **web development with Ruby on Rails** and **learning the Japanese language**.
-
-**Featured Projects**
-
-WIP
+Focused on **web development with Ruby on Rails** and **learning the Japanese language**.
 
 ---
 
@@ -84,19 +110,29 @@ WIP
 
 ---
 
+## 💼 Featured Projects
+
+### [Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
+CLI to generate **Genkoyoshi forms** for practicing kanji writing.  
+
+### [KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU)
+CLI for **conjugating Japanese verbs, adjectives, and nouns**.  
+
+---
+
+## 🌎 Languages
+
+🇧🇷 Portuguese (Native) | 🇬🇧 English (Advanced) | 🇯🇵 Japanese (Intermediate)
+
+---
+
 # 🇯🇵 レオナルド・フラゴーゾ 🙋‍♂️
 
-**フルスタックRuby on Rails開発者｜生涯学習者**
+**フルスタックRuby on Rails開発者｜生涯学習者**  
 
 現在、[MBA on Rails](https://mbaonrails.com.br/)でRuby on Railsに特化したMBAを履修中です。  
 
-私の現在の関心は、**Ruby on RailsによるWeb開発**と**日本語の学習**です。
-
-現在、日本語能力試験N2に向けて勉強中です。将来的にはN1の取得も目指しています。
-
-**注目プロジェクト**
-
-WIP
+関心は**Ruby on RailsによるWeb開発**と**日本語学習**です。
 
 ---
 
@@ -129,24 +165,16 @@ WIP
 
 ---
 
-## 🌎 Languages
+## 💼 注目プロジェクト
 
-🇧🇷 Português (Nativo) | 🇬🇧 English (Advanced) | 🇯🇵 日本語（中級）
+### [Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
+漢字練習用の**原稿用紙（Genkoyoshi）**を生成するCLI。  
 
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/leonardo-fragozo)
-[![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/fragozoleo)
-[![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/@FragozoLeonardo)
+### [KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU)
+日本語の動詞・形容詞・名詞を活用（活用形）するCLI。  
 
 ---
 
-## 🚀 Inspirational Quote
+## 🌎 言語
 
-> “Strive for continuous improvement, instead of perfection.” — **Kim Collins**
-
----
-
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FragozoLeonardo&show_icons=true&theme=transparent)
+🇧🇷 ポルトガル語（母語） | 🇬🇧 英語（上級） | 🇯🇵 日本語（中級）
