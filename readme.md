@@ -1,4 +1,4 @@
-# 🇧🇷 Leonardo Quadros Fragozo 🙋‍♂️
+# 🇧🇷 Leonardo Fragozo 🙋‍♂️
 
 **Desenvolvedor Full Stack Ruby on Rails | Aprendiz Contínuo**
 
@@ -41,7 +41,7 @@ WIP
 
 ---
 
-# 🇬🇧 Leonardo Quadros Fragozo 🙋‍♂️
+# 🇬🇧 Leonardo Fragozo 🙋‍♂️
 
 **Full Stack Ruby on Rails Developer | Lifelong Learner**
 
