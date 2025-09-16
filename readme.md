@@ -49,7 +49,7 @@ CLI para **conjugação de verbos, adjetivos e substantivos** em japonês.
 
 ## 🌎 Idiomas
 
-🇧🇷 Português (Nativo) | 🇬🇧 English (Advanced) | 🇯🇵 日本語（中級）
+🇧🇷 Português (Nativo) | 🇬🇧 English (Business Level) | 🇯🇵 日本語（中級）
 
 ---
 
@@ -61,23 +61,13 @@ CLI para **conjugação de verbos, adjetivos e substantivos** em japonês.
 
 ---
 
-## 🚀 Frase Inspiradora
-
-> “Strive for continuous improvement, instead of perfection.” — **Kim Collins**
-
----
-
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FragozoLeonardo&show_icons=true&theme=transparent)
-
----
-
 # 🇬🇧 Leonardo Fragozo 🙋‍♂️
 
 **Full Stack Ruby on Rails Developer | Lifelong Learner**  
 
 Currently pursuing an MBA specialized in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/).  
 
-Focused on **web development with Ruby on Rails** and **learning the Japanese language**.
+Currently focused on **web development with Ruby on Rails** and **learning the Japanese language**.
 
 ---
 
@@ -177,4 +167,11 @@ CLI for **conjugating Japanese verbs, adjectives, and nouns**.
 
 ## 🌎 言語
 
-🇧🇷 ポルトガル語（母語） | 🇬🇧 英語（上級） | 🇯🇵 日本語（中級）
+🇧🇷 ポルトガル語（母語） | 🇬🇧 英語（ビジネスレベル） | 🇯🇵 日本語（中級）
+
+---
+
+> “Strive for continuous improvement, instead of perfection.” — **Kim Collins**
+> 
+
+![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FragozoLeonardo&show_icons=true&theme=transparent)
