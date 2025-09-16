@@ -171,7 +171,6 @@ CLI for **conjugating Japanese verbs, adjectives, and nouns**.
 
 ---
 
-> “Strive for continuous improvement, instead of perfection.” — **Kim Collins**
-> 
+“Strive for continuous improvement, instead of perfection.” — **Kim Collins**
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FragozoLeonardo&show_icons=true&theme=transparent)
