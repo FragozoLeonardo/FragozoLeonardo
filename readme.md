@@ -158,7 +158,7 @@ CLI for **conjugating Japanese verbs, adjectives, and nouns**.
 ## 💼 注目プロジェクト
 
 ### [Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
-漢字練習用の**原稿用紙（Genkoyoshi）**を生成するCLI。  
+漢字練習用の**原稿用紙**を生成するCLI。  
 
 ### [KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU)
 日本語の動詞・形容詞・名詞を活用（活用形）するCLI。  
