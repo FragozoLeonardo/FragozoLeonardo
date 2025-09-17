@@ -24,12 +24,13 @@ Tenho como foco atual o **desenvolvimento web com Ruby on Rails** e o **estudo d
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Jest](https://skillicons.dev/icons?i=jest)
 
 ### Planejo Aprender
 
 ![AWS](https://skillicons.dev/icons?i=aws)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Vue](https://skillicons.dev/icons?i=vue)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -87,12 +88,13 @@ Currently focused on **web development with Ruby on Rails** and **learning the J
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Jest](https://skillicons.dev/icons?i=jest)
 
 ### Planning to Learn
 
 ![AWS](https://skillicons.dev/icons?i=aws)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Vue](https://skillicons.dev/icons?i=vue)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
@@ -142,12 +144,13 @@ CLI for **conjugating Japanese verbs, adjectives, and nouns**.
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
 ![React](https://skillicons.dev/icons?i=react)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Jest](https://skillicons.dev/icons?i=jest)
 
 ### 今後学習したい技術
 
 ![AWS](https://skillicons.dev/icons?i=aws)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Vue](https://skillicons.dev/icons?i=vue)
 ![MongoDB](https://skillicons.dev/icons?i=mongodb)
