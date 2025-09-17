@@ -112,7 +112,7 @@ CLI for **conjugating Japanese verbs, adjectives, and nouns**.
 
 ## 🌎 Languages
 
-🇧🇷 Portuguese (Native) | 🇬🇧 English (Advanced) | 🇯🇵 Japanese (Intermediate)
+🇧🇷 Portuguese (Native) | 🇬🇧 English (Business Level) | 🇯🇵 Japanese (Intermediate)
 
 ---
 
