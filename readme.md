@@ -20,6 +20,7 @@ Tenho como foco atual o **desenvolvimento web com Ruby on Rails** e o **estudo d
 
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Postman](https://skillicons.dev/icons?i=postman)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -84,6 +85,7 @@ Currently focused on **web development with Ruby on Rails** and **learning the J
 
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Postman](https://skillicons.dev/icons?i=postman)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
@@ -140,6 +142,7 @@ CLI for **conjugating Japanese verbs, adjectives, and nouns**.
 
 ![Linux](https://skillicons.dev/icons?i=linux)
 ![Docker](https://skillicons.dev/icons?i=docker)
+![Postman](https://skillicons.dev/icons?i=postman)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
 ![JavaScript](https://skillicons.dev/icons?i=js)
