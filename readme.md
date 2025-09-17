@@ -1,4 +1,4 @@
-# 🇧🇷 Leonardo Fragozo 🙋‍♂️
+# 🇧🇷 Leonardo Fragozo 🙋🏻‍♂️
 
 **Desenvolvedor Ruby on Rails | Aprendiz Contínuo**  
 
@@ -62,7 +62,7 @@ CLI para **conjugação de verbos, adjetivos e substantivos** em japonês.
 
 ---
 
-# 🇬🇧 Leonardo Fragozo 🙋‍♂️
+# 🇬🇧 Leonardo Fragozo 🙋🏻‍♂️
 
 **Ruby on Rails Developer | Lifelong Learner**  
 
@@ -118,7 +118,7 @@ CLI for **conjugating Japanese verbs, adjectives, and nouns**.
 
 ---
 
-# 🇯🇵 レオナルド・フラゴーゾ 🙋‍♂️
+# 🇯🇵 レオナルド・フラゴーゾ 🙋🏻‍♂️
 
 **Ruby on Rails開発者｜生涯学習者**  
 
