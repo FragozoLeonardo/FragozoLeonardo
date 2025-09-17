@@ -1,6 +1,6 @@
 # 🇧🇷 Leonardo Fragozo 🙋‍♂️
 
-**Desenvolvedor Full Stack Ruby on Rails | Aprendiz Contínuo**  
+**Desenvolvedor Ruby on Rails | Aprendiz Contínuo**  
 
 Cursando um MBA especializado em Ruby on Rails pelo [MBA on Rails](https://mbaonrails.com.br/).  
 
@@ -10,25 +10,25 @@ Tenho como foco atual o **desenvolvimento web com Ruby on Rails** e o **estudo d
 
 ## 🛠️ Tecnologias Principais
 
+![Git](https://skillicons.dev/icons?i=git)
 ![Ruby](https://skillicons.dev/icons?i=ruby)
 ![Rails](https://skillicons.dev/icons?i=rails)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 <img src="https://www.svgrepo.com/show/374053/rspec.svg" alt="RSpec" width="32" height="32" />
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
 
 ### Outros Conhecimentos
 
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
 ![Jest](https://skillicons.dev/icons?i=jest)
 
 ### Planejo Aprender
 
 ![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Vue](https://skillicons.dev/icons?i=vue)
@@ -63,7 +63,7 @@ CLI para **conjugação de verbos, adjetivos e substantivos** em japonês.
 
 # 🇬🇧 Leonardo Fragozo 🙋‍♂️
 
-**Full Stack Ruby on Rails Developer | Lifelong Learner**  
+**Ruby on Rails Developer | Lifelong Learner**  
 
 Currently pursuing an MBA specialized in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/).  
 
@@ -73,25 +73,25 @@ Currently focused on **web development with Ruby on Rails** and **learning the J
 
 ## 🛠️ Main Stack
 
+![Git](https://skillicons.dev/icons?i=git)
 ![Ruby](https://skillicons.dev/icons?i=ruby)
 ![Rails](https://skillicons.dev/icons?i=rails)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 <img src="https://www.svgrepo.com/show/374053/rspec.svg" alt="RSpec" width="32" height="32" />
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
 
 ### Also Familiar With
 
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
 ![Jest](https://skillicons.dev/icons?i=jest)
 
 ### Planning to Learn
 
 ![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Vue](https://skillicons.dev/icons?i=vue)
@@ -118,7 +118,7 @@ CLI for **conjugating Japanese verbs, adjectives, and nouns**.
 
 # 🇯🇵 レオナルド・フラゴーゾ 🙋‍♂️
 
-**フルスタックRuby on Rails開発者｜生涯学習者**  
+**Ruby on Rails開発者｜生涯学習者**  
 
 現在、[MBA on Rails](https://mbaonrails.com.br/)でRuby on Railsに特化したMBAを履修中です。  
 
@@ -128,25 +128,25 @@ CLI for **conjugating Japanese verbs, adjectives, and nouns**.
 
 ## 🛠️ 使用技術
 
+![Git](https://skillicons.dev/icons?i=git)
 ![Ruby](https://skillicons.dev/icons?i=ruby)
 ![Rails](https://skillicons.dev/icons?i=rails)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 <img src="https://www.svgrepo.com/show/374053/rspec.svg" alt="RSpec" width="32" height="32" />
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
 
 ### 使用経験のある技術
 
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Git](https://skillicons.dev/icons?i=git)
+![Docker](https://skillicons.dev/icons?i=docker)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
 ![Jest](https://skillicons.dev/icons?i=jest)
 
 ### 今後学習したい技術
 
 ![AWS](https://skillicons.dev/icons?i=aws)
-![Docker](https://skillicons.dev/icons?i=docker)
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![TypeScript](https://skillicons.dev/icons?i=ts)
 ![Vue](https://skillicons.dev/icons?i=vue)
