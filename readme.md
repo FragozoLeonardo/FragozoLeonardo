@@ -2,9 +2,9 @@
 
 **Desenvolvedor Ruby on Rails | Aprendiz Contínuo**  
 
-Atualmente cursando MBA em Ruby on Rails pelo [MBA on Rails](https://mbaonrails.com.br/), focado em **desenvolvimento web robusto e manutenção de sistemas escaláveis**.  
+Atualmente cursando MBA em Ruby on Rails pelo [MBA on Rails](https://mbaonrails.com.br/), com foco em **desenvolvimento web robusto e manutenção de sistemas escaláveis**.  
 
-Tenho experiência com **Ruby on Rails, PostgreSQL, testes com RSpec** e integração com Docker e APIs externas. Além disso, estudo **japonês e inglês** como diferenciais para atuar em **times internacionais**.
+Tenho experiência com **Ruby on Rails, PostgreSQL, testes com RSpec**, Docker e integração com APIs externas.  
 
 ---
 
@@ -52,7 +52,6 @@ CLI para **conjugação de verbos, adjetivos e substantivos** em japonês.
 ## 🌎 Idiomas
 
 🇧🇷 Português (Nativo) | 🇬🇧 English (Business Level) | 🇯🇵 日本語（中級）  
-*Estudo de japonês como diferencial para colaboração em projetos internacionais.*
 
 ---
 
@@ -70,7 +69,7 @@ CLI para **conjugação de verbos, adjetivos e substantivos** em japonês.
 
 Currently pursuing an MBA specialized in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/), focused on **robust web development and scalable systems maintenance**.  
 
-Experienced with **Ruby on Rails, PostgreSQL, RSpec testing**, Docker, and external API integration. Studying **Japanese and English** to enhance collaboration in **international teams**.
+Experienced with **Ruby on Rails, PostgreSQL, RSpec testing**, Docker, and API integration.  
 
 ---
 
@@ -118,7 +117,6 @@ CLI for **conjugating Japanese verbs, adjectives, and nouns**.
 ## 🌎 Languages
 
 🇧🇷 Portuguese (Native) | 🇬🇧 English (Business Level) | 🇯🇵 Japanese (Intermediate)  
-*Studying Japanese as a differentiator for international projects.*
 
 ---
 
@@ -130,7 +128,6 @@ CLI for **conjugating Japanese verbs, adjectives, and nouns**.
 **堅牢なWeb開発とスケーラブルなシステムの運用**に注力しています。  
 
 Ruby on Rails、PostgreSQL、RSpecテスト、Docker、外部API統合の経験があります。  
-日本語と英語の学習を通じて、**国際的なチームでの協働**を強化しています。
 
 ---
 
@@ -178,7 +175,6 @@ Ruby on Rails、PostgreSQL、RSpecテスト、Docker、外部API統合の経験�
 ## 🌎 言語
 
 🇧🇷 ポルトガル語（母語） | 🇬🇧 英語（ビジネスレベル） | 🇯🇵 日本語（中級）  
-*国際的なプロジェクトでの強みとして日本語を学習中。*
 
 ---
 
