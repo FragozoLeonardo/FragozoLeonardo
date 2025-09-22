@@ -2,9 +2,9 @@
 
 **Desenvolvedor Ruby on Rails | Aprendiz Contínuo**  
 
-Cursando um MBA especializado em Ruby on Rails pelo [MBA on Rails](https://mbaonrails.com.br/).  
+Atualmente cursando MBA em Ruby on Rails pelo [MBA on Rails](https://mbaonrails.com.br/), focado em **desenvolvimento web robusto e manutenção de sistemas escaláveis**.  
 
-Tenho como foco atual o **desenvolvimento web com Ruby on Rails** e o **estudo da língua japonesa**.
+Tenho experiência com **Ruby on Rails, PostgreSQL, testes com RSpec** e integração com Docker e APIs externas. Além disso, estudo **japonês e inglês** como diferenciais para atuar em **times internacionais**.
 
 ---
 
@@ -51,7 +51,8 @@ CLI para **conjugação de verbos, adjetivos e substantivos** em japonês.
 
 ## 🌎 Idiomas
 
-🇧🇷 Português (Nativo) | 🇬🇧 English (Business Level) | 🇯🇵 日本語（中級）
+🇧🇷 Português (Nativo) | 🇬🇧 English (Business Level) | 🇯🇵 日本語（中級）  
+*Estudo de japonês como diferencial para colaboração em projetos internacionais.*
 
 ---
 
@@ -67,9 +68,9 @@ CLI para **conjugação de verbos, adjetivos e substantivos** em japonês.
 
 **Ruby on Rails Developer | Lifelong Learner**  
 
-Currently pursuing an MBA specialized in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/).  
+Currently pursuing an MBA specialized in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/), focused on **robust web development and scalable systems maintenance**.  
 
-Currently focused on **web development with Ruby on Rails** and **learning the Japanese language**.
+Experienced with **Ruby on Rails, PostgreSQL, RSpec testing**, Docker, and external API integration. Studying **Japanese and English** to enhance collaboration in **international teams**.
 
 ---
 
@@ -116,7 +117,8 @@ CLI for **conjugating Japanese verbs, adjectives, and nouns**.
 
 ## 🌎 Languages
 
-🇧🇷 Portuguese (Native) | 🇬🇧 English (Business Level) | 🇯🇵 Japanese (Intermediate)
+🇧🇷 Portuguese (Native) | 🇬🇧 English (Business Level) | 🇯🇵 Japanese (Intermediate)  
+*Studying Japanese as a differentiator for international projects.*
 
 ---
 
@@ -124,9 +126,11 @@ CLI for **conjugating Japanese verbs, adjectives, and nouns**.
 
 **Ruby on Rails開発者｜生涯学習者**  
 
-現在、[MBA on Rails](https://mbaonrails.com.br/)でRuby on Railsに特化したMBAを履修中です。  
+現在、[MBA on Rails](https://mbaonrails.com.br/)でRuby on Railsに特化したMBAを履修中。  
+**堅牢なWeb開発とスケーラブルなシステムの運用**に注力しています。  
 
-関心は**Ruby on RailsによるWeb開発**と**日本語学習**です。
+Ruby on Rails、PostgreSQL、RSpecテスト、Docker、外部API統合の経験があります。  
+日本語と英語の学習を通じて、**国際的なチームでの協働**を強化しています。
 
 ---
 
@@ -173,10 +177,12 @@ CLI for **conjugating Japanese verbs, adjectives, and nouns**.
 
 ## 🌎 言語
 
-🇧🇷 ポルトガル語（母語） | 🇬🇧 英語（ビジネスレベル） | 🇯🇵 日本語（中級）
+🇧🇷 ポルトガル語（母語） | 🇬🇧 英語（ビジネスレベル） | 🇯🇵 日本語（中級）  
+*国際的なプロジェクトでの強みとして日本語を学習中。*
 
 ---
 
 “Strive for continuous improvement, instead of perfection.” — **Kim Collins**
+
 
 ![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FragozoLeonardo&show_icons=true&theme=transparent)
