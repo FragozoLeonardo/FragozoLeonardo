@@ -2,7 +2,7 @@
 
 **Desenvolvedor Ruby on Rails | Aprendiz Contínuo**  
 
-Atualmente cursando MBA em Ruby on Rails pelo [MBA on Rails](https://mbaonrails.com.br/), com foco em **desenvolvimento web robusto e manutenção de sistemas escaláveis**.  
+Atualmente cursando MBA em Ruby on Rails pelo [MBA on Rails](https://mbaonrails.com.br/), com foco na **criação e manutenção de sistemas escaláveis** e em desenvolvimento web robusto.  
 
 Tenho experiência com **Ruby on Rails, PostgreSQL, testes com RSpec**, Docker e integração com APIs externas.  
 
@@ -67,7 +67,7 @@ CLI para **conjugação de verbos, adjetivos e substantivos** em japonês.
 
 **Ruby on Rails Developer | Lifelong Learner**  
 
-Currently pursuing an MBA specialized in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/), focused on **robust web development and scalable systems maintenance**.  
+Currently pursuing an MBA specialized in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/), focused on **building and maintaining scalable systems** and robust web development.  
 
 Experienced with **Ruby on Rails, PostgreSQL, RSpec testing**, Docker, and API integration.  
 
@@ -125,7 +125,7 @@ CLI for **conjugating Japanese verbs, adjectives, and nouns**.
 **Ruby on Rails開発者｜生涯学習者**  
 
 現在、[MBA on Rails](https://mbaonrails.com.br/)でRuby on Railsに特化したMBAを履修中。  
-**堅牢なWeb開発とスケーラブルなシステムの運用**に注力しています。  
+**スケーラブルなシステムの構築と運用**、そして堅牢なWeb開発に注力しています。  
 
 Ruby on Rails、PostgreSQL、RSpecテスト、Docker、外部API統合の経験があります。  
 
