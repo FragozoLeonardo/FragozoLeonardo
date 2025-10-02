@@ -2,7 +2,7 @@
 
 ## 🎩 Focused Ruby on Rails Developer (MBA)｜Professional with Strong Logical Thinking
 
-I am passionate about developing **high-quality, scalable Rails applications**. Currently pursuing a specialized MBA in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/). I am rigorously focused on **RSpec Testing** and robust system architecture to become an **immediate asset in a professional environment**.
+I am passionate about developing **high-quality, scalable Rails applications**. Currently pursuing a specialized MBA in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/). I am rigorously focused on **RSpec Testing** and robust system architecture, while actively seeking challenging developer roles (remote or on-site) that prioritize quality and architecture.
 
 ---
 
@@ -61,7 +61,7 @@ Currently developing a Full-Stack Rails application designed for a **production 
 
 ## 🎩 Ruby on Railsを重点とする開発者 (MBA)｜論理的思考力を持つプロフェッショナル
 
-**「高品質でスケーラブルなRailsアプリケーション」** の開発に情熱を注いでいます。現在、[MBA on Rails](https://mbaonrails.com.br/)で専門的なMBAを履修中であり、**プロの現場で即戦力となる**ため、厳格な**RSpecテスト**と堅牢なシステムアーキテクチャに注力しています。
+**「高品質でスケーラブルなRailsアプリケーション」** の開発に情熱を注いでいます。現在、[MBA on Rails](https://mbaonrails.com.br/)で専門的なMBAを履修中であり、厳格な**RSpecテスト**と堅牢なシステムアーキテクチャに注力。国内外の**挑戦的なキャリア機会**を探しています。
 
 ---
 
@@ -120,7 +120,7 @@ Currently developing a Full-Stack Rails application designed for a **production 
 
 ## 🎩 Desenvolvedor Ruby on Rails com Foco (MBA)｜Profissional com Forte Pensamento Lógico
 
-Sou apaixonado por desenvolver **aplicações Rails de alta qualidade e escaláveis**. Atualmente, estou cursando MBA especializado em Ruby on Rails no [MBA on Rails](https://mbaonrails.com.br/), com foco rigoroso em **Testes RSpec** e arquitetura de sistemas robusta, a fim de me tornar uma **força de trabalho imediata em um ambiente profissional**.
+Sou apaixonado por desenvolver **aplicações Rails de alta qualidade e escaláveis**. Atualmente, estou cursando MBA especializado em Ruby on Rails no [MBA on Rails](https://mbaonrails.com.br/), com foco rigoroso em **Testes RSpec** e arquitetura de sistemas robusta, e busco ativamente oportunidades desafiadoras de desenvolvimento (remotas ou presenciais) que priorizem a qualidade e arquitetura.
 
 ---
 
