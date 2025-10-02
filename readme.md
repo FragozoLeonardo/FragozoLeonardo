@@ -1,90 +1,26 @@
-# 🇧🇷 Leonardo Fragozo 🙋🏻‍♂️
-
-**Desenvolvedor Ruby on Rails | Aprendiz Contínuo**  
-
-Atualmente cursando MBA em Ruby on Rails pelo [MBA on Rails](https://mbaonrails.com.br/), com foco na **criação e manutenção de sistemas escaláveis** e em desenvolvimento web robusto.  
-
-Tenho experiência com **Ruby on Rails, PostgreSQL, testes com RSpec**, Docker e integração com APIs externas.  
-
----
-
-## 🛠️ Tecnologias Principais
-
-![Git](https://skillicons.dev/icons?i=git)
-![Ruby](https://skillicons.dev/icons?i=ruby)
-![Rails](https://skillicons.dev/icons?i=rails)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-<img src="https://www.svgrepo.com/show/374053/rspec.svg" alt="RSpec" width="32" height="32" />
-
-### Outros Conhecimentos
-
-![Linux](https://skillicons.dev/icons?i=linux)
-![Docker](https://skillicons.dev/icons?i=docker)
-![Postman](https://skillicons.dev/icons?i=postman)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Jest](https://skillicons.dev/icons?i=jest)
-
-### Planejo Aprender
-
-![AWS](https://skillicons.dev/icons?i=aws)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Vue](https://skillicons.dev/icons?i=vue)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
-
----
-
-## 💼 Projetos em Destaque
-
-### [Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
-CLI para gerar **formulários Genkoyoshi** de prática de escrita de kanji.  
-
-### [KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU)
-CLI para **conjugação de verbos, adjetivos e substantivos** em japonês.  
-
----
-
-## 🌎 Idiomas
-
-🇧🇷 Português (Nativo) | 🇬🇧 English (Business Level) | 🇯🇵 日本語（中級）  
-
----
-
-## 📫 Conecte-se comigo
-
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/leonardo-fragozo)
-[![CodePen](https://skillicons.dev/icons?i=codepen)](https://codepen.io/fragozoleo)
-[![Replit](https://skillicons.dev/icons?i=replit)](https://replit.com/@FragozoLeonardo)
-
----
-
 # 🇬🇧 Leonardo Fragozo 🙋🏻‍♂️
 
-**Ruby on Rails Developer | Lifelong Learner**  
+## 🎩 Focused Ruby on Rails Developer (MBA)｜Professional with Strong Logical Thinking
 
-Currently pursuing an MBA specialized in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/), focused on **building and maintaining scalable systems** and robust web development.  
-
-Experienced with **Ruby on Rails, PostgreSQL, RSpec testing**, Docker, and API integration.  
+I am passionate about developing **high-quality, scalable Rails applications**. Currently pursuing a specialized MBA in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/). I am rigorously focused on **RSpec Testing** and robust system architecture to become an **immediate asset in a professional environment**.
 
 ---
 
-## 🛠️ Main Stack
+## 🛠️ Main Stack and Expertise
 
-![Git](https://skillicons.dev/icons?i=git)
+**Key Technologies**
+
 ![Ruby](https://skillicons.dev/icons?i=ruby)
 ![Rails](https://skillicons.dev/icons?i=rails)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 <img src="https://www.svgrepo.com/show/374053/rspec.svg" alt="RSpec" width="32" height="32" />
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![AWS](https://skillicons.dev/icons?i=aws)
 
-### Also Familiar With
+**Also Familiar With**
 
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Docker](https://skillicons.dev/icons?i=docker)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -94,55 +30,56 @@ Experienced with **Ruby on Rails, PostgreSQL, RSpec testing**, Docker, and API i
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Jest](https://skillicons.dev/icons?i=jest)
 
-### Planning to Learn
+---
 
-![AWS](https://skillicons.dev/icons?i=aws)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Vue](https://skillicons.dev/icons?i=vue)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
+## 💼 Projects and Contribution
+
+### I. Skill Demonstration Project
+#### Ongoing Key Project
+Currently developing a Full-Stack Rails application designed for a **production environment**. My goal is to implement **high RSpec test coverage** to demonstrate my **rigor in code quality** and system design capabilities.
+
+### II. Featured Tools
+* **[Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi):** A CLI tool to generate **Genkoyoshi forms** for practicing Kanji writing.
+* **[KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU):** A CLI tool for **conjugating Japanese verbs, adjectives, and nouns**.
 
 ---
 
-## 💼 Featured Projects
+## 🌎 Languages and Commitment
 
-### [Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
-CLI to generate **Genkoyoshi forms** for practicing kanji writing.  
-
-### [KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU)
-CLI for **conjugating Japanese verbs, adjectives, and nouns**.  
+* 🇬🇧 English (Business Level)
+* 🇯🇵 Japanese (**JLPT N2 in Preparation** - Focused on Business Japanese)
+* 🇧🇷 Portuguese (Native)
 
 ---
 
-## 🌎 Languages
+## 📫 Connect
 
-🇧🇷 Portuguese (Native) | 🇬🇧 English (Business Level) | 🇯🇵 Japanese (Intermediate)  
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/leonardo-fragozo)
 
 ---
-
 # 🇯🇵 レオナルド・フラゴーゾ 🙋🏻‍♂️
 
-**Ruby on Rails開発者｜生涯学習者**  
+## 🎩 Ruby on Railsを重点とする開発者 (MBA)｜論理的思考力を持つプロフェッショナル
 
-現在、[MBA on Rails](https://mbaonrails.com.br/)でRuby on Railsに特化したMBAを履修中。  
-**スケーラブルなシステムの構築と運用**、そして堅牢なWeb開発に注力しています。  
-
-Ruby on Rails、PostgreSQL、RSpecテスト、Docker、外部API統合の経験があります。  
+**「高品質でスケーラブルなRailsアプリケーション」** の開発に情熱を注いでいます。現在、[MBA on Rails](https://mbaonrails.com.br/)で専門的なMBAを履修中であり、**プロの現場で即戦力となる**ため、厳格な**RSpecテスト**と堅牢なシステムアーキテクチャに注力しています。
 
 ---
 
-## 🛠️ 使用技術
+## 🛠️ 使用技術と専門分野 (Main Stack)
 
-![Git](https://skillicons.dev/icons?i=git)
+**主要技術**
+
 ![Ruby](https://skillicons.dev/icons?i=ruby)
 ![Rails](https://skillicons.dev/icons?i=rails)
 ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
 <img src="https://www.svgrepo.com/show/374053/rspec.svg" alt="RSpec" width="32" height="32" />
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
+![AWS](https://skillicons.dev/icons?i=aws)
 
-### 使用経験のある技術
+**使用経験のある技術**
 
 ![Linux](https://skillicons.dev/icons?i=linux)
-![Docker](https://skillicons.dev/icons?i=docker)
 ![Postman](https://skillicons.dev/icons?i=postman)
 ![HTML](https://skillicons.dev/icons?i=html)
 ![CSS](https://skillicons.dev/icons?i=css)
@@ -152,33 +89,85 @@ Ruby on Rails、PostgreSQL、RSpecテスト、Docker、外部API統合の経験�
 ![Tailwind](https://skillicons.dev/icons?i=tailwind)
 ![Jest](https://skillicons.dev/icons?i=jest)
 
-### 今後学習したい技術
+---
 
+## 💼 プロジェクトと開発への貢献 (Projects and Contribution)
+
+### I. スキル実証プロジェクト (Skill Demonstration Project)
+#### 進行中の主要プロジェクト (Ongoing Key Project)
+現在、**実務環境**を想定したフルスタックのRailsアプリケーションを開発中です。目標は**RSpecによる高いテストカバレッジ**を実現すること。これは、私の**厳格な品質基準**と**システム設計能力**を実証するものです。
+
+### II. 注目ツール (Featured Tools)
+* **[Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi):** 漢字練習用の**原稿用紙**を生成するCLIツール。
+* **[KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU):** 日本語の動詞・形容詞・名詞を活用するCLIツール。
+
+---
+
+## 🌎 言語とコミットメント (Languages and Commitment)
+
+* 🇬🇧 英語（ビジネスレベル）
+* 🇯🇵 日本語（**JLPT N2 受験準備中** - ビジネス日本語学習に注力）
+* 🇧🇷 ポルトガル語（母語）
+
+---
+
+## 📫 接続 (Connect)
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/leonardo-fragozo)
+
+---
+# 🇧🇷 Leonardo Fragozo 🙋🏻‍♂️
+
+## 🎩 Desenvolvedor Ruby on Rails com Foco (MBA)｜Profissional com Forte Pensamento Lógico
+
+Sou apaixonado por desenvolver **aplicações Rails de alta qualidade e escaláveis**. Atualmente, estou cursando MBA especializado em Ruby on Rails no [MBA on Rails](https://mbaonrails.com.br/), com foco rigoroso em **Testes RSpec** e arquitetura de sistemas robusta, a fim de me tornar uma **força de trabalho imediata em um ambiente profissional**.
+
+---
+
+## 🛠️ Tecnologias e Especialidades (Main Stack)
+
+**Principais Tecnologias**
+
+![Ruby](https://skillicons.dev/icons?i=ruby)
+![Rails](https://skillicons.dev/icons?i=rails)
+![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+<img src="https://www.svgrepo.com/show/374053/rspec.svg" alt="RSpec" width="32" height="32" />
+![Docker](https://skillicons.dev/icons?i=docker)
+![Git](https://skillicons.dev/icons?i=git)
 ![AWS](https://skillicons.dev/icons?i=aws)
-![TypeScript](https://skillicons.dev/icons?i=ts)
-![Vue](https://skillicons.dev/icons?i=vue)
-![MongoDB](https://skillicons.dev/icons?i=mongodb)
-![Redis](https://skillicons.dev/icons?i=redis)
+
+**Outros Conhecimentos**
+
+![Linux](https://skillicons.dev/icons?i=linux)
+![Postman](https://skillicons.dev/icons?i=postman)
+![HTML](https://skillicons.dev/icons?i=html)
+![CSS](https://skillicons.dev/icons?i=css)
+![JavaScript](https://skillicons.dev/icons?i=js)
+![React](https://skillicons.dev/icons?i=react)
+![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
+![Tailwind](https://skillicons.dev/icons?i=tailwind)
+![Jest](https://skillicons.dev/icons?i=jest)
 
 ---
 
-## 💼 注目プロジェクト
+## 💼 Projetos em Destaque (Featured Projects)
 
-### [Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
-漢字練習用の**原稿用紙**を生成するCLI。  
+### I. Projeto de Demonstração de Habilidades
+#### Projeto Principal em Andamento (Main Project Underway)
+Atualmente, estou desenvolvendo uma aplicação *Full-Stack* em Rails, projetada para um **ambiente de produção**. O objetivo é implementar uma **alta cobertura de testes com RSpec**. Este projeto visa demonstrar meu **rigor na qualidade de código** e minha habilidade em arquitetura de sistemas.
 
-### [KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU)
-日本語の動詞・形容詞・名詞を活用するCLI。  
+### II. Projetos Anteriores
+* **[Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi):** Ferramenta CLI para gerar formulários **Genkoyoshi** (prática de escrita de Kanji).
+* **[KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU):** Ferramenta CLI para **conjugação de verbos, adjetivos e substantivos** em japonês.
 
 ---
 
-## 🌎 言語
+## 🌎 Idiomas e Compromisso
 
-🇧🇷 ポルトガル語（母語） | 🇬🇧 英語（ビジネスレベル） | 🇯🇵 日本語（中級）  
+* 🇬🇧 Inglês (Nível de Negócios)
+* 🇯🇵 Japonês (**Foco Total no JLPT N2** - Aprendizagem de Keigo)
+* 🇧🇷 Português (Nativo)
 
 ---
 
 “Strive for continuous improvement, instead of perfection.” — **Kim Collins**
-
-
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=FragozoLeonardo&show_icons=true&theme=transparent)
