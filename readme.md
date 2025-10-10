@@ -1,8 +1,8 @@
 # 🇬🇧 Leonardo Fragozo 🙋🏻‍♂️
 
-## 🎩 Focused Ruby on Rails Developer (MBA)｜Professional with Strong Logical Thinking
+## 🎩 Strategic Ruby on Rails Developer (MBA)｜Focused on Reliability and Architecture
 
-I am passionate about developing **high-quality, scalable Rails applications**. Currently pursuing a specialized MBA in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/). I am rigorously focused on **RSpec Testing** and robust system architecture, while actively seeking challenging developer roles (remote or on-site) that prioritize quality and architecture.
+I am passionate about developing **high-quality, scalable Rails applications**. Currently pursuing a specialized MBA in Ruby on Rails at [MBA on Rails](https://mbaonrails.com.br/), with a rigorous focus on **RSpec Testing** for **reliable, production-grade systems**. Actively seeking challenging developer roles that value quality, architecture, and strategic vision.
 
 ---
 
@@ -34,11 +34,11 @@ I am passionate about developing **high-quality, scalable Rails applications**. 
 
 ## 💼 Projects and Contribution
 
-### I. Skill Demonstration Project
-#### Ongoing Key Project
-Currently developing a Full-Stack Rails application designed for a **production environment**. My goal is to implement **high RSpec test coverage** to demonstrate my **rigor in code quality** and system design capabilities.
+### I. Skill Demonstration Project (Current Focus)
+#### Proving Production Readiness
+Currently developing a Full-Stack Rails application designed for a **production environment**. The goal is to implement **high RSpec test coverage** to demonstrate my **rigor in code quality** and current coding activity.
 
-### II. Featured Tools
+### II. Featured Tools (Japan Focus)
 * **[Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi):** A CLI tool to generate **Genkoyoshi forms** for practicing Kanji writing.
 * **[KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU):** A CLI tool for **conjugating Japanese verbs, adjectives, and nouns**.
 
@@ -47,7 +47,7 @@ Currently developing a Full-Stack Rails application designed for a **production 
 ## 🌎 Languages and Commitment
 
 * 🇬🇧 English (Business Level)
-* 🇯🇵 Japanese (**JLPT N2 in Preparation** - Focused on Business Japanese)
+* 🇯🇵 Japanese (**JLPT N2 in Preparation** - Actively studying **Business Keigo** for professional integration)
 * 🇧🇷 Portuguese (Native)
 
 ---
@@ -57,11 +57,15 @@ Currently developing a Full-Stack Rails application designed for a **production 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/leonardo-fragozo)
 
 ---
+"The quality of your code reflects the rigor of your mind."
+
+***
+
 # 🇯🇵 レオナルド・フラゴーゾ 🙋🏻‍♂️
 
-## 🎩 Ruby on Railsを重点とする開発者 (MBA)｜論理的思考力を持つプロフェッショナル
+## 🎩 Ruby on Railsを重点とする開発者 (MBA)｜信頼性と戦略的な視点を持つプロフェッショナル
 
-**「高品質でスケーラブルなRailsアプリケーション」** の開発に情熱を注いでいます。現在、[MBA on Rails](https://mbaonrails.com.br/)で専門的なMBAを履修中であり、厳格な**RSpecテスト**と堅牢なシステムアーキテクチャに注力。国内外の**挑戦的なキャリア機会**を探しています。
+**「高品質でスケーラブルなRailsアプリケーション」** の開発に情熱を注いでいます。[MBA on Rails](https://mbaonrails.com.br/)で専門的なMBAを履修中であり、**信頼できる実務レベルのシステム**のために厳格な**RSpecテスト**に注力。国内外の**挑戦的なキャリア機会**を探しています。
 
 ---
 
@@ -93,11 +97,11 @@ Currently developing a Full-Stack Rails application designed for a **production 
 
 ## 💼 プロジェクトと開発への貢献 (Projects and Contribution)
 
-### I. スキル実証プロジェクト (Skill Demonstration Project)
-#### 進行中の主要プロジェクト (Ongoing Key Project)
-現在、**実務環境**を想定したフルスタックのRailsアプリケーションを開発中です。目標は**RSpecによる高いテストカバレッジ**を実現すること。これは、私の**厳格な品質基準**と**システム設計能力**を実証するものです。
+### I. スキル実証プロジェクト (現在の焦点)
+#### 実務レベルの証明
+現在、**実務環境**を想定したフルスタックのRailsアプリケーションを開発中です。目標は**RSpecによる高いテストカバレッジ**を実現すること。これは、私の**厳格な品質基準**と**現在のコーディング活動**を証明するものです。
 
-### II. 注目ツール (Featured Tools)
+### II. 注目ツール (日本特化)
 * **[Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi):** 漢字練習用の**原稿用紙**を生成するCLIツール。
 * **[KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU):** 日本語の動詞・形容詞・名詞を活用するCLIツール。
 
@@ -106,7 +110,7 @@ Currently developing a Full-Stack Rails application designed for a **production 
 ## 🌎 言語とコミットメント (Languages and Commitment)
 
 * 🇬🇧 英語（ビジネスレベル）
-* 🇯🇵 日本語（**JLPT N2 受験準備中** - ビジネス日本語学習に注力）
+* 🇯🇵 日本語（**JLPT N2 受験準備中** - チーム統合のため**ビジネス敬語**を積極的に学習中）
 * 🇧🇷 ポルトガル語（母語）
 
 ---
@@ -116,11 +120,15 @@ Currently developing a Full-Stack Rails application designed for a **production 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/leonardo-fragozo)
 
 ---
+"Strive for continuous improvement, instead of perfection." — **Kim Collins**
+
+***
+
 # 🇧🇷 Leonardo Fragozo 🙋🏻‍♂️
 
-## 🎩 Desenvolvedor Ruby on Rails com Foco (MBA)｜Profissional com Forte Pensamento Lógico
+## 🎩 Desenvolvedor Ruby on Rails | Visão Estratégica e Rigor Arquitetural (MBA)
 
-Sou apaixonado por desenvolver **aplicações Rails de alta qualidade e escaláveis**. Atualmente, estou cursando MBA especializado em Ruby on Rails no [MBA on Rails](https://mbaonrails.com.br/), com foco rigoroso em **Testes RSpec** e arquitetura de sistemas robusta, e busco ativamente oportunidades desafiadoras de desenvolvimento (remotas ou presenciais) que priorizem a qualidade e arquitetura.
+Sou apaixonado por desenvolver **aplicações Rails de alta qualidade e escaláveis**. Atualmente, estou cursando MBA especializado em Ruby on Rails no [MBA on Rails](https://mbaonrails.com.br/), com foco rigoroso em **Testes RSpec para sistemas confiáveis em nível de produção**. Busco ativamente oportunidades desafiadoras que valorizem a arquitetura, a qualidade e a visão de negócios.
 
 ---
 
@@ -152,11 +160,11 @@ Sou apaixonado por desenvolver **aplicações Rails de alta qualidade e escaláv
 
 ## 💼 Projetos em Destaque (Featured Projects)
 
-### I. Projeto de Demonstração de Habilidades
-#### Projeto Principal em Andamento (Main Project Underway)
-Atualmente, estou desenvolvendo uma aplicação *Full-Stack* em Rails, projetada para um **ambiente de produção**. O objetivo é implementar uma **alta cobertura de testes com RSpec**. Este projeto visa demonstrar meu **rigor na qualidade de código** e minha habilidade em arquitetura de sistemas.
+### I. Projeto de Demonstração de Habilidades (Foco Atual)
+#### Comprovando Prontidão para Produção
+Atualmente, estou desenvolvendo uma aplicação *Full-Stack* em Rails, projetada para um **ambiente de produção**. O objetivo é implementar uma **alta cobertura de testes com RSpec**. Este projeto visa demonstrar meu **rigor na qualidade de código** e minha atividade de codificação atual.
 
-### II. Projetos Anteriores
+### II. Projetos Anteriores (Foco no Japão)
 * **[Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi):** Ferramenta CLI para gerar formulários **Genkoyoshi** (prática de escrita de Kanji).
 * **[KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU):** Ferramenta CLI para **conjugação de verbos, adjetivos e substantivos** em japonês.
 
@@ -165,9 +173,13 @@ Atualmente, estou desenvolvendo uma aplicação *Full-Stack* em Rails, projetada
 ## 🌎 Idiomas e Compromisso
 
 * 🇬🇧 Inglês (Nível de Negócios)
-* 🇯🇵 Japonês (**Foco Total no JLPT N2** - Aprendizagem de Keigo)
+* 🇯🇵 Japonês (**Foco Total no JLPT N2** - **Aprendizagem de Keigo** e integração profissional)
 * 🇧🇷 Português (Nativo)
 
 ---
 
 “Strive for continuous improvement, instead of perfection.” — **Kim Collins**
+
+## 📫 Conexão
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/leonardo-fragozo)
