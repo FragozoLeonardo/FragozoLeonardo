@@ -5,7 +5,7 @@
 ## Ruby on Rails Developer｜Focused on Reliability and Maintainable Design
 
 I am a backend-focused **Ruby on Rails developer** with experience building and maintaining **production-oriented web applications**.  
-I hold a Bachelor's degree in Information Systems and am currently pursuing a specialized **MBA in Ruby on Rails** at [MBA on Rails](https://mbaonrails.com.br/).
+I hold a Bachelor's degree in Information Systems and am currently pursuing a specialized **MBA focused on Ruby on Rails** at [MBA on Rails](https://mbaonrails.com.br/).
 
 I place strong emphasis on **code quality, clear architecture, and long-term maintainability**.  
 Rather than focusing only on implementation, I aim to understand **business context and requirements** to deliver stable, sustainable solutions.
@@ -70,7 +70,7 @@ and experiment with different approaches in Ruby.
 
 ## 🌎 Languages
 
-- 🇬🇧 English — Business level  
+- 🇬🇧 English — Business proficiency  
 - 🇯🇵 Japanese — JLPT N2 level (actively studying technical and business communication)  
 - 🇧🇷 Portuguese — Native  
 
