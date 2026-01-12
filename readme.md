@@ -71,7 +71,7 @@ and experiment with different approaches in Ruby.
 ## 🌎 Languages
 
 - 🇬🇧 English — Business level  
-- 🇯🇵 Japanese — JLPT N2 level (actively studying business communication)  
+- 🇯🇵 Japanese — JLPT N2 level (actively studying technical and business communication)  
 - 🇧🇷 Portuguese — Native  
 
 ---
