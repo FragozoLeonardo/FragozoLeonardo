@@ -1,84 +1,59 @@
 # Leonardo Fragozo 🙋🏻‍♂️
 
-🌐 Also available in: 🇯🇵 日本語 | 🇧🇷 Português
+## Ruby on Rails Developer | Focused on Reliability and Maintainable Design
 
-## Ruby on Rails Developer｜Focused on Reliability and Maintainable Design
+I am a backend-focused **Ruby on Rails developer** dedicated to engineering resilient, production-grade applications. With a Bachelor’s in Information Systems and an ongoing **MBA in Ruby on Rails**, my methodology prioritizes structural integrity and long-term maintainability over mere implementation.
 
-I am a backend-focused **Ruby on Rails developer** with experience building and maintaining **production-oriented web applications**.  
-I hold a Bachelor's degree in Information Systems and am currently pursuing a specialized **MBA focused on Ruby on Rails** at [MBA on Rails](https://mbaonrails.com.br/).
-
-I place strong emphasis on **code quality, clear architecture, and long-term maintainability**.  
-Rather than focusing only on implementation, I aim to understand **business context and requirements** to deliver stable, sustainable solutions.
-
-I value **clear communication, steady improvement, and collaborative teamwork** in development environments.
+I bridge the gap between complex business requirements and stable code, valuing clear communication, professional ethics, and continuous architectural improvement.
 
 ---
 
-## 🛠️ Main Stack and Expertise
+## 🛠️ Tech Stack & Expertise
 
-**Core Technologies**
+**Core Backend**
+![Ruby](https://img.shields.io/badge/Ruby-2D2E2E?style=for-the-badge&logo=ruby&logoColor=CC342D)
+![Rails](https://img.shields.io/badge/Rails-2D2E2E?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000)
+![Postgres](https://img.shields.io/badge/Postgres-2D2E2E?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![RSpec](https://img.shields.io/badge/RSpec-2D2E2E?style=for-the-badge&logo=ruby&logoColor=CC342D)
 
-![Ruby](https://skillicons.dev/icons?i=ruby)
-![Rails](https://skillicons.dev/icons?i=rails)
-![PostgreSQL](https://skillicons.dev/icons?i=postgres)
-<img src="https://www.svgrepo.com/show/374053/rspec.svg" alt="RSpec" width="32" height="32" />
-![Docker](https://skillicons.dev/icons?i=docker)
-![Git](https://skillicons.dev/icons?i=git)
-![AWS](https://skillicons.dev/icons?i=aws)
-
-**Additional Experience**
-
-![Linux](https://skillicons.dev/icons?i=linux)
-![Postman](https://skillicons.dev/icons?i=postman)
-![HTML](https://skillicons.dev/icons?i=html)
-![CSS](https://skillicons.dev/icons?i=css)
-![JavaScript](https://skillicons.dev/icons?i=js)
-![React](https://skillicons.dev/icons?i=react)
-![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
-![Tailwind](https://skillicons.dev/icons?i=tailwind)
-![Jest](https://skillicons.dev/icons?i=jest)
+**Infrastructure & Tools**
+![Docker](https://img.shields.io/badge/Docker-2D2E2E?style=for-the-badge&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/AWS-2D2E2E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Git](https://img.shields.io/badge/Git-2D2E2E?style=for-the-badge&logo=git&logoColor=F05032)
+![Linux](https://img.shields.io/badge/Linux-2D2E2E?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Postman](https://img.shields.io/badge/Postman-2D2E2E?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
 ---
 
-## 💼 Projects and Contributions
+## 💼 Featured Projects
 
-### Production-Oriented Rails Application (Current Focus)
-Currently developing a **full-stack Ruby on Rails application** designed with a real-world production environment in mind.
+### Production-Oriented Rails Application
+*Architectural Deep Dive*
 
-Key focus areas:
-- RSpec-based testing
-- Maintainable architecture
-- Clear domain boundaries
-- Incremental improvement through refactoring
+Currently developing a full-stack Ruby on Rails application designed to demonstrate architectural patterns used in high-traffic production systems. 
+* **Testing Suite:** Robust coverage with **RSpec**, focusing on unit, request, and integration tests.
+* **Maintainability:** Implementation of **Service Objects** and clear Domain Boundaries to manage complexity.
+* **Reliability:** Focused on database optimization and secure API design.
 
-This project reflects my **current coding activity** and my approach to building reliable systems.
+### [Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
+*Ruby CLI Tool* | A specialized tool that generates **Genkoyoshi (原稿用紙)** sheets. It demonstrates my ability to handle specific formatting requirements and Ruby's file manipulation capabilities.
 
----
-
-### Utility CLI Tools
-
-* **[Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)**  
-  A CLI tool that generates **Genkoyoshi (原稿用紙)** sheets for Kanji writing practice.
-
-* **[KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU)**  
-  A CLI tool for conjugating **verbs, adjectives, and nouns**.
-
-These projects are small utility tools built to explore ideas, improve workflows,
-and experiment with different approaches in Ruby.
+### [KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU)
+*Ruby CLI Tool* | A linguistic utility for Japanese verb, adjective, and noun conjugation, showcasing logic complexity and algorithmic thinking in Ruby.
 
 ---
 
-## 🌎 Languages
+## 🌎 Languages & Communication
 
-- 🇬🇧 English — Business proficiency  
-- 🇯🇵 Japanese — JLPT N2 level (actively studying technical and business communication)  
-- 🇧🇷 Portuguese — Native  
+* **English:** Business Proficiency
+* **Japanese:** JLPT N2 (Advanced technical and business communication)
+* **Portuguese:** Native
 
 ---
 
-## 📫 Connect
+## 📫 Connect with me
 
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/leonardo-fragozo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-2D2E2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/leonardo-fragozo)
 
 ---
 
