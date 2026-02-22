@@ -60,4 +60,5 @@ A production-grade system designed to manage reading backlogs, applying advanced
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2D2E2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/leonardo-fragozo-dev)
 
 ---
-> "First, solve the problem. Then, write the code." – **John Johnson**
+
+"First, solve the problem. Then, write the code." – **John Johnson**
