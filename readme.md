@@ -32,7 +32,7 @@ Currently specializing in **Rails 8, Hotwire (Turbo/Stimulus), and AWS cloud inf
 
 ## 💼 Featured Projects
 
-### 📚 Tsundoku Breaker (In Development - MBA Capstone)
+### 📚 Tsundoku Tracker (In Development - MBA Capstone)
 *Full Stack Rails 8 & Hotwire Application*
 A production-grade system designed to manage reading backlogs, applying advanced architectural patterns.
 * **Modern Frontend:** Zero-SPA approach using **Turbo Streams** and **Stimulus** for real-time reactivity.
