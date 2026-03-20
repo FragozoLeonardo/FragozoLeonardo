@@ -1,71 +1,54 @@
 # Leonardo Fragozo | Software Engineer 👨‍💻
+### Architecture | Ruby on Rails 8 | Scalability | TDD
 
-## Full Stack Developer Specialist in Ruby on Rails & Software Architecture
+I am a **Software Engineer** with a **Bachelor’s in Information Systems (2016)** and an **MBA Candidate in Ruby on Rails Architecture**. My focus is on bridging the gap between complex business requirements and high-performance, maintainable code.
 
-I am a **Software Engineer** focused on building scalable, resilient applications using the "Rails Way." With a **Bachelor’s in Information Systems (2016)** and currently pursuing an **MBA in Ruby on Rails Architecture** (focusing on Microservices, Scalability, and Cloud Infrastructure), I bridge the gap between complex business requirements and high-performance, test-driven code.
-
-Currently specializing in **Rails 8, Hotwire (Turbo/Stimulus), and AWS cloud infrastructure**, aiming to deliver reactive user experiences with backend integrity.
+I specialize in the **modern Rails ecosystem (7/8)**, leveraging **Hotwire** to deliver reactive user experiences with backend integrity and **TDD (RSpec)** to ensure production-grade reliability.
 
 ---
 
 ## 🛠️ Tech Stack & Expertise
 
 **Core Backend & Architecture**
-![Ruby](https://img.shields.io/badge/Ruby-2D2E2E?style=for-the-badge&logo=ruby&logoColor=CC342D)
-![Rails](https://img.shields.io/badge/Rails_8-2D2E2E?style=for-the-badge&logo=ruby-on-rails&logoColor=CC0000)
-![Postgres](https://img.shields.io/badge/Postgres-2D2E2E?style=for-the-badge&logo=postgresql&logoColor=4169E1)
-![RSpec](https://img.shields.io/badge/TDD_/_RSpec-2D2E2E?style=for-the-badge&logo=ruby&logoColor=CC342D)
+* **Ruby on Rails 8 Specialist:** Expert in Active Record optimization, Service Objects, and SOLID principles.
+* **Testing:** 100% TDD approach with **RSpec** and Capybara.
+* **Databases:** PostgreSQL (Query optimization, $N+1$ prevention, and indexing).
 
 **Modern Frontend (The Rails Way)**
-![Hotwire](https://img.shields.io/badge/Hotwire-2D2E2E?style=for-the-badge&logo=hotwire&logoColor=white)
-![Turbo](https://img.shields.io/badge/Turbo-2D2E2E?style=for-the-badge&logo=turbo&logoColor=40AFBF)
-![Stimulus](https://img.shields.io/badge/Stimulus-2D2E2E?style=for-the-badge&logo=stimulus&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-2D2E2E?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4)
+* **Hotwire Stack:** Turbo Frames, Turbo Streams, and Stimulus JS for zero-SPA reactivity.
+* **Styling:** Tailwind CSS and ViewComponents for modular UI components.
 
 **Infrastructure & DevOps**
-![AWS](https://img.shields.io/badge/AWS-2D2E2E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Docker](https://img.shields.io/badge/Docker-2D2E2E?style=for-the-badge&logo=docker&logoColor=2496ED)
-![Git](https://img.shields.io/badge/Git-2D2E2E?style=for-the-badge&logo=git&logoColor=F05032)
-![Linux](https://img.shields.io/badge/Linux-2D2E2E?style=for-the-badge&logo=linux&logoColor=FCC624)
+* **Cloud & Tools:** AWS ecosystem, Docker containerization, and Git-based CI/CD pipelines.
 
 ---
 
-## 💼 Featured Projects
+## 💼 Featured Engineering Projects
 
-Below are my standout projects showcasing my architectural choices, testing practices, and Ruby knowledge.
-
-### 📚 [Tsundoku Tracker](https://github.com/FragozoLeonardo/tsundoku-tracker) (In Development - MBA Capstone)
+### 📚 [Tsundoku Tracker](https://github.com/FragozoLeonardo/tsundoku-tracker) (MBA Capstone)
 *Full Stack Rails 8 & Hotwire Application*
-A production-grade system designed to manage reading backlogs, applying advanced architectural patterns.
-* **Architecture:** Implemented Service Objects, View Components, and Domain-Driven Design principles for a highly maintainable codebase.
-* **Modern Frontend:** Built a zero-SPA reactive interface using **Turbo Streams** and **Stimulus**, reducing JavaScript overhead.
-* **Quality & Testing:** Maintained a 100% TDD approach with **RSpec** and **Capybara** to ensure high reliability.
+A production-grade system designed to manage complex data backlogs, applying advanced architectural patterns.
+* **Architectural Patterns:** Implemented **Service Objects** and **Domain-Driven Design (DDD)** to decouple business logic from controllers.
+* **Modern Reactivity:** Developed a zero-SPA reactive interface using **Turbo Streams**, significantly reducing JavaScript overhead.
+* **Quality Assurance:** High-coverage testing suite with **RSpec**, ensuring reliability in critical business flows.
 
-### 🇯🇵 [KatsuYOU](https://github.com/FragozoLeonardo/KatsuYOU)
-*Ruby CLI Tool* 
-A linguistic utility for Japanese conjugation (verbs, adjectives, and nouns). 
-* **Technical Highlights:** Showcases the ability to handle complex conditional logic, algorithmic problem-solving, and clean code architecture in pure Ruby.
-
-### 📄 [Genki-Yoshi](https://github.com/FragozoLeonardo/Genki-Yoshi)
-*Ruby CLI Tool* 
-Generates **Genkoyoshi (原稿用紙)** formatting. 
-* **Technical Highlights:** Demonstrates advanced file manipulation capabilities and precision in handling specific, complex layout requirements in Ruby.
+### ⚙️ [Ruby Logic & Data Processing](https://github.com/FragozoLeonardo/)
+*Logic & Data Manipulation in Pure Ruby*
+A collection of specialized Ruby tools (KatsuYOU, Genki-Yoshi) focused on complex conditional logic and layout generation.
+* **Technical Highlights:** These projects showcase my ability to handle complex string manipulation, recursive logic, and precise data formatting using **Object-Oriented Ruby** without framework dependencies.
 
 ---
 
-## 🌎 Global Readiness
+## 🌎 Professional Readiness
 
-* **Location:** Brazil 🇧🇷 (Open to Relocation to **Japan** 🇯🇵)
-* **Languages:** Portuguese (Native), English (B2 Upper Intermediate, C2 Reading - EF SET Certified), Japanese (JLPT N3 Candidate - Target 2026).
-* **Visa Status:** Bachelor's Degree holder (2016) - Eligible for Engineer/Specialist in Humanities Visa.
+* **Location:** Brazil 🇧🇷 (Open to Global Remote Opportunities)
+* **Education:** Bachelor's Degree in Information Systems (Full Visa Eligibility).
+* **Languages:** * Portuguese (Native)
+    * English (B2 Upper Intermediate - EF SET Certified)
+    * Japanese (JLPT N3 Candidate - Conversational / Intermediate Study)
 
 ---
-
-## 📫 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-2D2E2E?style=for-the-badge&logo=linkedin&logoColor=0A66C2)](https://linkedin.com/in/leonardo-fragozo-dev)
 
----
-
-"First, solve the problem. Then, write the code." – **John Johnson**
-```
+*"First, solve the problem. Then, write the code."*
