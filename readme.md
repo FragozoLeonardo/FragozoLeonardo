@@ -34,6 +34,8 @@ Full-stack Rails and Hotwire application
 
 WIP
 
+---
+
 ### Ruby Logic & Data Processing
 
 - Developed Ruby tools for data processing and string manipulation
