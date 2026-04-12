@@ -29,13 +29,10 @@ Currently pursuing an MBA in Software Architecture while continuing hands-on dev
 
 ## Projects
 
-### Tsundoku Tracker
-Full-stack Rails application
+### Kamorebi
+Full-stack Rails and Hotwire application
 
-- Built a web application to manage book collections
-- Developed backend logic and database design using PostgreSQL
-- Implemented dynamic UI using Hotwire (Turbo Streams)
-- Wrote automated tests with RSpec
+WIP
 
 ### Ruby Logic & Data Processing
 
