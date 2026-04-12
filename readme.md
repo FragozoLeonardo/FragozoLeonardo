@@ -29,7 +29,7 @@ Currently pursuing an MBA in Software Architecture while continuing hands-on dev
 
 ## Projects
 
-### Kamorebi
+### Komorebi
 Full-stack Rails and Hotwire application
 
 WIP
