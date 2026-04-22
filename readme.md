@@ -1,56 +1,51 @@
-# Leonardo Fragozo | Software Engineer
+# Leonardo Quadros Fragozo | Software Engineer
+### 🎩 Building elegant solutions with Ruby on Rails
 
-Ruby on Rails developer focused on building reliable and maintainable web applications.
-
-## About
-
-Software Engineer with experience in developing backend systems using Ruby on Rails.
-
-- Built and maintained web applications and APIs
-- Worked with PostgreSQL and Redis for data management
-- Developed frontend features using Hotwire (Turbo/Stimulus)
-- Wrote automated tests using RSpec (TDD)
-
-Currently pursuing an MBA in Software Architecture while continuing hands-on development.
+I am a Software Engineer dedicated to crafting reliable, maintainable, and sophisticated web systems. My approach combines the precision of classical engineering with the agility of modern web development.
 
 ---
 
-## Tech Stack
+## 🏛️ About Me
 
-- Ruby on Rails, Ruby
-- PostgreSQL, Redis
-- REST APIs
-- Hotwire (Turbo/Stimulus)
-- RSpec (TDD)
-- Docker, AWS
-- Git
+Software Engineer specialized in **Ruby on Rails** backend architectures. I value clean code (OOP), professionalism, and the continuous pursuit of technical excellence.
+
+* **Architectural Focus:** Currently pursuing an **MBA in Software Architecture** to deepen my expertise in scalable systems.
+* **Methodology:** Strong advocate for **TDD (RSpec)** and maintainable data management using PostgreSQL and Redis.
+* **Modern Frontend:** Expertly delivering reactive experiences using **Hotwire (Turbo/Stimulus)**.
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-### Komorebi
-Full-stack Rails and Hotwire application
-
-WIP
-
----
-
-### Ruby Logic & Data Processing
-
-- Developed Ruby tools for data processing and string manipulation
-- Focused on clean, maintainable object-oriented code
+| Domain | Technologies |
+| :--- | :--- |
+| **Languages & Frameworks** | Ruby, Ruby on Rails, REST APIs |
+| **Frontend** | Hotwire (Turbo & Stimulus), Tailwind CSS |
+| **Data & Infrastructure** | PostgreSQL, Redis, Docker, AWS |
+| **Testing & Quality** | RSpec (TDD), RuboCop |
 
 ---
 
-## Professional InfS
+## 🏗️ Featured Projects
 
-- Location: Brazil (open to relocation)
-- Languages:
-  - Portuguese (Native)
-  - English (Business Level, Studying)
-  - Japanese (Studying, conversational level)
+### [Komorebi](https://github.com/FragozoLeonardo/komorebi-app)
+*Full-stack Rails & Hotwire Application*
+> A Japanese Language Learning App Built For Brazilian Portuguese Speakers.
+>
+> **Stack:** Ruby on Rails, Turbo, Stimulus, PostgreSQL.
 
 ---
 
-[LinkedIn](https://linkedin.com/in/leonardo-fragozo-dev)
+## 🌐 Personal & Professional Info
+
+* **Location:** Brazil 🇧🇷 (Open to global opportunities/relocation)
+* **Languages:**
+    * **Portuguese:** Native
+    * **English:** Business Level
+    * **Japanese:** Conversational (N3 Level Proficiency) — *and improving*
+
+---
+
+## 👔 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-fragozo-dev)
