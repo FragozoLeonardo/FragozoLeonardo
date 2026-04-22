@@ -30,9 +30,10 @@ Software Engineer specialized in **Ruby on Rails** backend architectures. I valu
 
 ### [Komorebi](https://github.com/FragozoLeonardo/komorebi-app)
 *Full-stack Rails & Hotwire Application*
-> A Japanese Language Learning App Built For Brazilian Portuguese Speakers.
->
-> **Stack:** Ruby on Rails, Turbo, Stimulus, PostgreSQL.
+
+A Japanese Language Learning App Built For Brazilian Portuguese Speakers.
+
+**Stack:** Ruby on Rails, Turbo, Stimulus, PostgreSQL.
 
 ---
 
