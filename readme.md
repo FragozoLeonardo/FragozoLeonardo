@@ -7,7 +7,7 @@ I am a Software Engineer dedicated to crafting reliable, maintainable, and sophi
 
 ## 🏛️ About Me
 
-Software Engineer specialized in **Ruby on Rails** backend architectures. I value clean code (OOP), professionalism, and the continuous pursuit of technical excellence.
+Software Engineer specialized in **Ruby on Rails** backend architectures. I value clean code, professionalism, and the continuous pursuit of technical excellence.
 
 * **Architectural Focus:** Currently pursuing an **MBA in Software Architecture** to deepen my expertise in scalable systems.
 * **Methodology:** Strong advocate for **TDD (RSpec)** and maintainable data management using PostgreSQL and Redis.
