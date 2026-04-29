@@ -1,52 +1,57 @@
-# Leonardo Quadros Fragozo | Software Engineer
-### 🎩 Building elegant solutions with Ruby on Rails
+# Leonardo Quadros Fragozo
+Backend Engineer (Ruby on Rails)
 
-I am a Software Engineer dedicated to crafting reliable, maintainable, and sophisticated web systems. My approach combines the precision of classical engineering with the agility of modern web development.
+Backend Engineer with 3+ years of experience building web applications using Ruby on Rails.
 
----
-
-## 🏛️ About Me
-
-Software Engineer specialized in **Ruby on Rails** backend architectures. I value clean code, professionalism, and the continuous pursuit of technical excellence.
-
-* **Architectural Focus:** Currently pursuing an **MBA in Software Architecture** to deepen my expertise in scalable systems.
-* **Methodology:** Strong advocate for **TDD (RSpec)** and maintainable data management using PostgreSQL and Redis.
-* **Modern Frontend:** Expertly delivering reactive experiences using **Hotwire (Turbo/Stimulus)**.
+Focused on API design, data modeling, and performance optimization. Strong experience with automated testing (RSpec) and maintainable backend systems.
 
 ---
 
 ## 🛠️ Tech Stack
 
-| Domain | Technologies |
-| :--- | :--- |
-| **Languages & Frameworks** | Ruby, Ruby on Rails, REST APIs |
-| **Frontend** | Hotwire (Turbo & Stimulus), Tailwind CSS |
-| **Data & Infrastructure** | PostgreSQL, Redis, Docker, AWS |
-| **Testing & Quality** | RSpec (TDD), RuboCop |
+- Ruby, Ruby on Rails
+- PostgreSQL, Redis
+- RSpec (TDD)
+- Hotwire (Turbo/Stimulus)
+- Docker, AWS
 
 ---
 
-## 🏗️ Featured Projects
+## 🚀 Featured Project
 
-### [Komorebi](https://github.com/FragozoLeonardo/komorebi-app)
-*Full-stack Rails & Hotwire Application*
+### Komorebi
+Rails application for Japanese language learning (Kanji, Vocabulary, Grammar).
 
-A Japanese Language Learning App Built For Brazilian Portuguese Speakers.
+**Key Features:**
+- Polymorphic review system (Kanji, Vocabulary, Grammar)
+- User progress tracking per learning item
+- Scalable architecture for spaced repetition (SRS)
+- Clean domain modeling aligned with JLPT structure
 
-**Stack:** Ruby on Rails, Turbo, Stimulus, PostgreSQL.
+**Tech:**
+Rails 8, PostgreSQL, Hotwire
 
----
-
-## 🌐 Personal & Professional Info
-
-* **Location:** Brazil 🇧🇷 (Open to global opportunities/relocation)
-* **Languages:**
-    * **Portuguese:** Native
-    * **English:** Business Level
-    * **Japanese:** Conversational (N3 Level Proficiency) — *and improving*
+👉 https://github.com/FragozoLeonardo/komorebi-app
 
 ---
 
-## 👔 Let's Connect
+## 🎯 What I Focus On
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/leonardo-fragozo)
+- Backend architecture and domain modeling
+- Building reliable and maintainable systems
+- Performance optimization in Rails applications
+- Test-driven development (RSpec)
+
+---
+
+## 🌍 Info
+
+- Location: Brazil (Open to relocation / international roles)
+- English: Business level
+- Japanese: Intermediate (JLPT N3, progressing to N2)
+
+---
+
+## 🔗 Contact
+
+- LinkedIn: https://linkedin.com/in/leonardo-fragozo
